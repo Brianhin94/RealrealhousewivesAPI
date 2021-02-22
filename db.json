@@ -1,0 +1,3811 @@
+{
+    "count": 111,
+    "housewives": [
+        {
+            "id": 1,
+            "first_name": "Kimberly",
+            "last_name": "Bryant",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "seasons": [
+                "1"
+            ],
+            "partner": "Scott",
+            "children": [
+                "Bianca",
+                "Travis"
+            ],
+            "likes": [
+                "fitness",
+                "organic food",
+                "allegedly other peoples' boyfriends"
+            ],
+            "taglines": [
+                "Season 1: 85 percent of the women around here have had breast implants."
+            ]
+        },
+        {
+            "id": 2,
+            "first_name": "Jo",
+            "last_name": "De La Rosa",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "09/03/1980",
+            "seasons": [
+                "1", 
+                "2"
+            ],
+            "partner": "Not Slade Smiley",
+            "likes": [
+                "Being spoiled"
+            ],
+            "dislikes": [
+                "Being told what to do"
+            ],
+            "taglines": [
+                "Season 1: He's pretty much keeping me",
+                "Season 2: I deserve only the best. I'm worth it."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=7McsWWNoNHg"
+        },
+        {
+            "id": 3,
+            "first_name": "Vicki",
+            "last_name": "Gunvalson",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "03/27/1962",
+            "seasons": [
+                "1", 
+                "2", 
+                "3", 
+                "4", 
+                "5", 
+                "6", 
+                "7", 
+                "8", 
+                "9", 
+                "10", 
+                "11", 
+                "12", 
+                "13"
+            ],
+            "partner": "Steve Lodge, fiance",
+            "previous_partners": [
+                "Don Gunvalson, deserved better",
+                "Brooks Ayers, faked cancer"
+            ],
+            "children": [
+                "Briana, 33",
+                "Michael, 36"
+            ],
+            "likes": [
+                "Casseroles", 
+                "Keeping her love tank full", 
+                "Taking tequila shots in Mexico"
+            ],
+            "dislikes": [
+                "Being called a con woman", 
+                "Any time Tamra is mad at her", 
+                "Being held accountable"
+            ],
+            "taglines": [
+                "Season 1: I don’t wanna get old.",
+                "Season 2: Here’s to not being fake.",
+                "Season 3: Everything’s got to be huge, large, and grand.",
+                "Season 4: I want the power and the money, and I want them both.",
+                "Season 5: I love my family, I love my work, I love my life.",
+                "Season 6: I make my own money, and I make my own rules.",
+                "Season 7: My tank is full and I’m driving into my future.",
+                "Season 8: I’m my own boss and it’s time for a raise.",
+                "Season 9: I make my own rules, so don’t expect me to follow yours.",
+                "Season 10: I am the OG of the O.C.; everyone else is just a copy.",
+                "Season 11: Before you judge me, you better be perfect.",
+                "Season 12: I go big or go home, and I’m not going home.",
+                "Season 13: The fun bus is leaving, and this time I’m in the driver’s seat."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=_qPuf_XOZus"
+        },
+        {
+            "id": 4,
+            "first_name": "Jeana",
+            "last_name": "Keough",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "09/18/1955",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "children": [
+                "Kara, 32",
+                "Shane, 34",
+                "Colton,  29"
+            ],
+            "likes": [
+                "Spending time with her kids",
+                "Stirring the pot"
+            ],
+            "dislikes": [
+                "Tamra throwing wine in her face"
+            ],
+            "taglines": [
+                "Season 1: It’s just money, you can’t take it with you.",
+                "Season 2: I have always wanted things. I crave money.",
+                "Season 3: I love money and now I’m loving life.",
+                "Season 4: It doesn’t matter what happens in life, I do it my way",
+                "Season 5: Money is a girl’s best friend, and I love friends."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=75tJuqsgQus"
+        },
+        {
+            "id": 5,
+            "first_name": "Lauri",
+            "last_name": "Peterson",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "06/10/1959",
+            "seasons": [
+                "1", 
+                "2",
+                "3"
+            ],
+            "children": [
+                "Josh",
+                "Sophie",
+                "Ashley",
+                "Slayte",
+                "Danyka",
+                "Bria",
+                "McKenzie"
+            ],
+            "likes": [
+                "Being rich",
+                "Horses",
+                "Accusing Vicki of having threesomes"
+            ],
+            "dislikes": [
+                "Liars",
+                "Being poor"
+            ],
+            "taglines": [
+                "Season 1: Are the police involved?",
+                "Season 2: I was poor, I was rich, I was poor again and you know what? Having money is easier.",
+                "Season 3: You know what, I’m living the O.C. lifestyle again. I feel like royalty."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=e_Sh9xGi-M4"
+        },
+        {
+            "id": 6,
+            "first_name": "Tammy",
+            "last_name": "Knickerbocker",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "07/17/1963",
+            "seasons": [ 
+                "2",
+                "3"
+            ],
+            "previous_partners": "Lou, RIP",
+            "children": [
+                "Megan",
+                "Lindsey",
+                "Ryley"
+            ],
+            "likes": [
+                "Reminiscing about when she was rich"
+            ],
+            "dislikes": [
+                "Not being rich"
+            ],
+            "taglines": [
+                "Season 2: I don’t let my kids or my exes drive me crazy.",
+                "Season 3: No matter how much money you have, you can always rely on others."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=H8v8ETASh68"
+        },
+        {
+            "id": 7,
+            "first_name": "Quinn",
+            "last_name": "Fry",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "seasons": [
+                "3"
+            ],
+            "likes": [
+                "Wigs"
+            ],
+            "taglines": [
+                "Season 3: I love having a younger man in my life."
+            ]
+        },
+        {
+            "id": 8,
+            "first_name": "Tamra",
+            "nickname": "THAT'S MY OPINION",
+            "last_name": "Judge",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "09/02/1967",
+            "seasons": [
+                "3", 
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14"
+            ],
+            "children": [
+                "Sidney",
+                "Ryan",
+                "Sophia",
+                "Spencer"
+            ],
+            "likes": [
+                "Being HBBIC",
+                "Constant attention",
+                "CUT Fitness",
+                "Sex with Eddie in the bubble bath",
+                "Showing off her many boob jobs"
+            ],
+            "dislikes": [
+                "When the attention is not on her",
+                "Being fired",
+                "Shannon Beador"
+            ],
+            "taglines": [
+                "Season 3: I’m the hottest housewife in Orange County.",
+                "Season 4: I’m not the new girl anymore, so watch out.",
+                "Season 5: Housewives come younger, but they don’t come hotter.",
+                "Season 6: I’m done being a trophy wife, freedom only makes me hotter.",
+                "Season 7: I call the shots in my life now, and I have good aim.",
+                "Season 8: The best thing about starting over is never looking back.",
+                "Season 9: I’m not getting older, I’m just getting bolder.",
+                "Season 10: Boldness comes at a cost, and I’m willing to pay.",
+                "Season 11: My faith is strong, and my ass isn’t bad either.",
+                "Season 12: I’m pint-sized, baptized and highly prized.",
+                "Season 13: I’m still the hottest Housewife in Orange County, and the toughest, too.",
+                "Season 14: These days faith, family and fitness are the only ‘F’s’ I give."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=BKH92qRi7Js"
+        },
+        {
+            "id": 9,
+            "first_name": "Lynne",
+            "last_name": "Curtin",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "07/26/1956",
+            "seasons": [
+                "4", 
+                "5"
+            ],
+            "children": [
+                "Raquel",
+                "Alexa"
+            ],
+            "likes": [
+                "Chunky bracelets",
+                "Popping chill pills",
+                "Doing whatever it takes to stay young"
+            ],
+            "dislikes": [
+                "Finding out she's not rich",
+                "Getting evicted"
+            ],
+            "taglines": [
+                "Season 4: I’m just your typical Orange County housewife. I am obsessed with being young.",
+                "Season 5: It’s not about how much money you have, it’s about how good you look spending it."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=kaB1mY3BjNk"
+        },
+        {
+            "id": 10,
+            "first_name": "Gretchen",
+            "last_name": "Rossi",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "10/30/1977",
+            "seasons": [
+                "4", 
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "partner": "Slade Smiley lol",
+            "previous_partners": "Jeff, RIP",
+            "children": [
+                "Skylar"
+            ],
+            "likes": [
+                "Bling",
+                "Instagram filters",
+                "Ordering Slade around"
+            ],
+            "dislikes": [
+                "People calling Slade a deadbeat dad",
+                "Being accused of being a gold digger (RIP Jeff)",
+                "Vicki Gunvalson"
+            ],
+            "taglines": [
+                "Season 4: I love the bling, I love the jewelry, I love it all.",
+                "Season 5: I’m smart, I’m sexy, and I’m confident. Of course, people are gonna talk about me.",
+                "Season 6: Happiness means never having to apologize for being me.",
+                "Season 7: Don’t call me a princess, call me the boss.",
+                "Season 8: When the going gets tough, I just get stronger and stronger." 
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=3k2BvOshsHo"
+        },
+        {
+            "id": 11,
+            "first_name": "Alexis",
+            "nickname": "Jesus Jugs",
+            "last_name": "Bellino",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "01/09/1977",
+            "seasons": [
+                "5", 
+                "6",
+                "7",
+                "8"
+            ],
+            "children": [
+                "Mackenna",
+                "James",
+                "Melania"
+            ],
+            "likes": [
+                "Botox",
+                "Bling",
+                "Jesus"
+            ],
+            "dislikes": [
+                "Being bullied",
+                "Her ex husband Jim"
+            ],
+            "previous_partners": "Jim Bellino, yuck",
+            "taglines": [
+                "Season 5: Am I high maintenance? Of course, I am, look at me.",
+                "Season 6: God is my savior, my husband is my king and my body? It’s sinful.",
+                "Season 7: I thank God every day for my life, and you would, too.",
+                "Season 8: I don’t need to prove anything. I know who I am and God does too."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=Ip4hoDf34cc"
+        },
+        {
+            "id": 12,
+            "first_name": "Peggy",
+            "last_name": "Tanous",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "03/30/1970",
+            "seasons": [
+                "6"
+            ],
+            "partner": "Micah",
+            "children": [
+                "London",
+                "Capri"
+            ],
+            "taglines": [
+                "Season 6: Soccer moms drive minivans, but this girl drives a Bentley."
+            ]
+        },
+        {
+            "id": 13,
+            "first_name": "Heather",
+            "last_name": "Dubrow",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "01/05/1969",
+            "seasons": [
+                "7", 
+                "8",
+                "9",
+                "10",
+                "11"
+            ],
+            "children": [
+                "Maximilia",
+                "Katarina",
+                "Colette",
+                "Nicholas"
+            ],
+            "likes": [
+                "Champagne",
+                "Diamonds",
+                "Being filthy rich"
+            ],
+            "dislikes": [
+                "Anyone with bad manners"
+            ],
+            "taglines": [
+                "Season 7: I may be married to a plastic surgeon, but I'm 98 percent real.",
+                "Season 8: Whoever said blondes have more fun, hasn't met me.",
+                "Season 9: You may think I have it all, but I'm just getting started.",
+                "Season 10: No one's life is perfect, but mine is pretty close.",
+                "Season 11: If at first you don't succeed - try it my way."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=pz0L0J5ZH0U"
+        },
+        {
+            "id": 14,
+            "first_name": "Lydia",
+            "last_name": "McLaughlin",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "03/10/1981",
+            "seasons": [
+                "8", 
+                "12"
+            ],
+            "partner": "Doug",
+            "children": [
+                "Stirling",
+                "Maverick",
+                "Roman"
+            ],
+            "likes": [
+                "Jesus",
+                "Sparkles",
+                "Rainbows"
+            ],
+            "dislikes": [
+                "Dressing up in drag",
+                "Mean girls"
+            ],
+            "taglines": [
+                "Season 8: You only live once, but if you work it right, once is enough.",
+                "Season 12: If you can’t take my sparkle, then stay off my rainbow."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=5Ey7mbcTvU4"
+        },
+        {
+            "id": 15,
+            "first_name": "Shannon",
+            "last_name": "Storms Beador",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "03/25/1964",
+            "seasons": [
+                "9", 
+                "10",
+                "11",
+                "12",
+                "13",
+                "14",
+                "15"
+            ],
+            "partner": "John",
+            "previous_partners": "David, piece of shit",
+            "children": [
+                "Stella",
+                "Adeline"
+            ],
+            "likes": [
+                "Vodka",
+                "Blaming other people for her problems",
+                "Living a holistic lifestyle"
+            ],
+            "dislikes": [
+                "When people put words in her mouth"
+            ],
+            "taglines": [
+                "Season 9: The O.C. is full of secrets, but I have nothing to hide.",
+                "Season 10: When life gives you lemons, put nine in a bowl!",
+                "Season 11: Karma’s a bitch, so I don’t have to be one.",
+                "Season 12: The truth is organic, but lies are just artificial.",
+                "Season 13: Some people say I’m too much to handle. I say I’m just getting started.",
+                "Season 14: The tables have turned. And this time, I’m dancing on them.",
+                "Season 15: I’ve closed the old Bea-door and opened a new one."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=CrE9AUaEIao"
+        },
+        {
+            "id": 16,
+            "first_name": "Lizzie",
+            "last_name": "Rovsek",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "01/22/1980",
+            "seasons": [
+                "9"
+            ],
+            "children": [
+                "Kingston",
+                "Preston"
+            ],
+            "likes": [
+                "Making bathing suits"
+            ],
+            "dislikes": [
+                "Tamra"
+            ],
+            "taglines": [
+                "Season 9: Standing out is much more fun than fitting in."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=NbsgMwsWiCo"
+        },
+        {
+            "id": 17,
+            "first_name": "Meghan",
+            "last_name": "King Edmonds",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "09/26/1984",
+            "seasons": [
+                "10", 
+                "11",
+                "12"
+            ],
+            "children": [
+                "Aspen",
+                "Hayes",
+                "Hart"
+            ],
+            "likes": [
+                "Getting to the bottom of the truth"
+            ],
+            "dislikes": [
+                "People who lie about cancer",
+                "Vicki for lying about cancer"
+            ],
+            "taglines": [
+                "Season 10: Now that I’m in the O.C., it’s a whole new ball game.",
+                "Season 11: In the game of life, I choose my team wisely.",
+                "Season 12: I can handle a baby and women who act like one!"
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=u7NUeG4HO3M"
+        },
+        {
+            "id": 18,
+            "first_name": "Kelly",
+            "last_name": "Dodd-Leventhal",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "09/26/1975",
+            "seasons": [
+                "11", 
+                "12",
+                "13",
+                "14",
+                "15"
+            ],
+            "partner": "Rick Leventhal",
+            "children": [
+                "Jolie"
+            ],
+            "likes": [
+                "Donald Trump",
+                "Talking out of her ass",
+                "Being a COVID denier"
+            ],
+            "dislikes": [
+                "Being called out for how problematic she is",
+                "Vicki Gunvalson",
+                "Tamra Judge"
+            ],
+            "taglines": [
+                "Season 11: I don’t throw parties, I am the party.",
+                "Season 12: If I want your opinion, I’ll give it to you.",
+                "Season 13: Call animal control, ‘cause there’s a cougar on the loose in the OC.",
+                "Season 14: If you don’t want me to cross the line, don’t draw one.",
+                "Season 15: Don’t judge me for what I do. In fact, don’t judge me at all."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=l22P5sOhCqo"
+        },
+        {
+            "id": 19,
+            "first_name": "Peggy",
+            "nickname": "100th Housewife",
+            "last_name": "Sulahian",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "07/30/1973",
+            "seasons": [
+                "12"
+            ],
+            "partner": "Diko",
+            "children": [
+                "Giovanna",
+                "Gianelle",
+                "KoKo"
+            ],
+            "likes": [
+                "Being vague about having cancer",
+                "Pretending she can't speak English",
+                "Showing off how rich she is"
+            ],
+            "taglines": [
+                "Season 12: I’m living the American dream, one sports car at a time."
+            ]
+        },
+        {
+            "id": 20,
+            "first_name": "Gina",
+            "last_name": "Kirschenheiter",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "05/11/1984",
+            "seasons": [
+                "13", 
+                "14",
+                "15"
+            ],
+            "partner": "Travis Mullen",
+            "previous_partners": "Matt, yuck",
+            "children": [
+                "Nicholas",
+                "Sienna",
+                "Luca"
+            ],
+            "likes": [
+                "Her casita",
+                "Having East Coast pride"
+            ],
+            "dislikes": [
+                "The people who did her hair her first two seasons"
+            ],
+            "taglines": [
+                "Season 13: I speak the truth… even if it sounds funny when I say it.",
+                "Season 14: I’ve made mistakes in Orange County, but I’ll fix them in a New York minute.",
+                "Season 15: Those who live in small houses should definitely throw stones. (???)"
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=X-GuJR6NOwg"
+        },
+        {
+            "id": 21,
+            "first_name": "Emily",
+            "last_name": "Simpson",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "01/19/1976",
+            "seasons": [
+                "13", 
+                "14",
+                "15"
+            ],
+            "partner": "Shane",
+            "children": [
+                "Annabelle",
+                "Keller",
+                "Luke"
+            ],
+            "likes": [
+                "Reminding people she's a lawyer",
+                "When Shannon Beador thinks she's fun"
+            ],
+            "dislikes": [
+                "People calling her husband a dork"
+            ],
+            "taglines": [
+                "Season 13: When you come from humble beginnings, you count your blessings… one diamond at a time.",
+                "Season 14: In a town full of blondes, I’m legally brunette.",
+                "Season 15: Life is full of beautiful curves, and so am I."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=EnS9FnBkq94"
+        },
+        {
+            "id": 22,
+            "first_name": "Braunwyn",
+            "nickname": "Boringham",
+            "last_name": "Windham-Burke",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "11/25/1977",
+            "seasons": [
+                "14", 
+                "15"
+            ],
+            "partners": [
+                "Sean, husband",
+                "Kris, girlfriend"
+            ],
+            "children": [
+                "Bella",
+                "Rowan",
+                "Jacob",
+                "Caden",
+                "Curran",
+                "Koa",
+                "Hazel"
+            ],
+            "likes": [
+                "Making her husband stay married to her while also being a lesbian"
+            ],
+            "dislikes": [
+                "Any time the attention is not on her"
+            ],
+            "taglines": [
+                "Season 14: I manage to wrangle a family of nine and still look like a ten.",
+                "Season 15: Cheers to bad choices -- then making better ones."
+            ]
+        },
+        {
+            "id": 23,
+            "first_name": "Elizabeth",
+            "last_name": "Vargas",
+            "city": "Orange County",
+            "show": "The Real Housewives of Orange County",
+            "birthday": "03/22/1975",
+            "seasons": [
+                "15"
+            ],
+            "taglines": [
+                "Season 15: I earned my money the old-fashioned way: marrying it, then making more."
+            ]
+        },
+        {
+            "id": 24,
+            "first_name": "Luann",
+            "nickname": "The Countess",
+            "last_name": "de Lesseps",
+            "city": "New York City",
+            "show": "The Real Housewives of New York City",
+            "birthday": "05/17/1965",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12"
+            ],
+            "previous_partners": [
+                "The Pirate",
+                "The Count",
+                "Jacques",
+                "Tom"
+            ],
+            "children": [
+                "Victoria",
+                "Noel",
+                ""
+            ],
+            "likes": [
+                "The Cabaret",
+                "The sound of her own voice",
+                "The sight of her own image"
+            ],
+            "dislikes": [
+                "When it's about Tom"
+            ],
+            "taglines": [
+                "Season 1: I never feel guilty about being privileged.",
+                "Season 2: I never feel guilty about being privileged.",
+                "Season 3: I never feel guilty about being privileged.",
+                "Season 4: I thought I had it good before, but I’m just getting started.",
+                "Season 5: To some people, living elegantly just comes naturally.",
+                "Season 7: One should know…Never count out the Countess.",
+                "Season 8: If you can’t be cool, you can’t be with the Countess.",
+                "Season 9: The only title I’d trade Countess for…is Wife.",
+                "Season 10: The most interesting people make the best headlines.",
+                "Season 11: I plead guilty…to being fabulous.",
+                "Season 12: I rise above the drama -- and won’t settle for the lower level."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=K_0EtaQyqDU"
+        },
+        {
+            "id": 25,
+            "first_name": "Bethenny",
+            "last_name": "Frankel",
+            "city": "New York City",
+            "show": "The Real Housewives of New York City",
+            "birthday": "11/04/1970",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11"
+            ],
+            "children": [
+                "Brynn"
+            ],
+            "likes": [
+                "Skinnygirl",
+                "Mentioning it all",
+                "Skinnygirl"
+            ],
+            "dislikes": [
+                "Scary Island",
+                "Carole Radziwill",
+                "Supporting other women"
+            ],
+            "taglines": [
+                "Season 1: New York City is my playground.",
+                "Season 2: New York City is my playground.",
+                "Season 3: New York City is my playground.",
+                "Season 7: I’m not a Housewife, but I am real.",
+                "Season 8: If you can’t handle the truth, you can’t handle me.",
+                "Season 9: If you’re going to take a shot at this B, you better not miss.",
+                "Season 10: It’s great to be successful. But it’s even better to B Strong.",
+                "Season 11: When life gives me limes, I make margaritas."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=Fbf5w0fsY8Q"
+        },
+        {
+            "id": 26,
+            "first_name": "Alex",
+            "last_name": "McCord",
+            "city": "New York City",
+            "show": "The Real Housewives of New York City",
+            "birthday": "10/01/1973",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4"
+            ],
+            "partner": "Simon van Kempen",
+            "children": [
+                "Francois",
+                "Johan"
+            ],
+            "likes": [
+                "Brooklyn",
+                "Her Herman Munster shoes"
+            ],
+            "dislikes": [
+                "When Jill Zarin comes to Scary Island",
+                "When people talk shit about Brooklyn"
+            ],
+            "taglines": [
+                "Seasons 1: To a certain group of people in New York, status is everything.",
+                "Season 2: To a certain group of people in New York, status is everything.",
+                "Season 3: To a certain group of people in New York, status is everything.",
+                "Season 4: I’ve always had opinions, but now people know it."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=W6DCiT-sSBI"
+        },
+        {
+            "id": 27,
+            "first_name": "Ramona",
+            "nickname": "The Ramonacoaster",
+            "last_name": "Singer",
+            "city": "New York City",
+            "show": "The Real Housewives of New York City",
+            "birthday": "11/17/1956",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12"
+            ],
+            "previous_partners": "Mario",
+            "children": [
+                "Avery"
+            ],
+            "likes": [
+                "Herself",
+                "Pinot Grigio",
+                "Her 50 girlfriends",
+                "Turtle Time"
+            ],
+            "dislikes": [
+                "Women who don't support other women",
+                "Anyone or anything déclassé",
+                "Women with tattoos"
+            ],
+            "taglines": [
+                "Season 1:I like making my own money, I find that an aphrodisiac.",
+                "Season 2: I like making my own money, I find that an aphrodisiac.",
+                "Season 3: I like making my own money, I find that an aphrodisiac.",
+                "Season 4: If people can’t handle the truth, it’s really not my problem.",
+                "Season 5: I’m not afraid to say what everyone else is thinking.",
+                "Season 6: Get the Pinot ready, because it’s Turtle Time!",
+                "Season 7: I know I’m a piece of work, but now, I’m a work in progress.",
+                "Season 8: Like a fine wine, I just get better with time.",
+                "Season 9: I’m an acquired taste. You don’t like me? Acquire some taste!",
+                "Season 10: Age is an issue of mind over matter: If you don’t mind, it doesn’t matter!",
+                "Season 11: The only thing I’ll settle for is more.",
+                "Season 12: So what if I’m self involved, who else should I be involved with?"
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=gVp-yvx2pDY"
+        },
+        {
+            "id": 28,
+            "first_name": "Jill",
+            "last_name": "Zarin",
+            "city": "New York City",
+            "show": "The Real Housewives of New York City",
+            "birthday": "11/30/1963",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4"
+            ],
+            "previous_partners": "Bobby Shapiro, RIP",
+            "children": [
+                "Allyson"
+            ],
+            "likes": [
+                "Calling the shots",
+                "Playing tennis with Simon van Kempen",
+                "Watching Ramona walk down a runway"
+            ],
+            "dislikes": [
+                "Fighting with Bethenny"
+            ],
+            "taglines": [
+                "Season 1: I run with a fabulous circle of people.",
+                "Season 2: I run with a fabulous circle of people.",
+                "Season 3: I run with a fabulous circle of people.",
+                "Season 4: Good or bad, I know who I am and I own it."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=-8N9iuhY7Fg"
+        },
+        {
+            "id": 29,
+            "first_name": "Kelly",
+            "last_name": "Bensimon",
+            "city": "New York City",
+            "show": "The Real Housewives of New York City",
+            "birthday": "05/01/1968",
+            "seasons": [
+                "2", 
+                "3",
+                "4"
+            ],
+            "children": [
+                "Louise",
+                "Thadeus"
+            ],
+            "likes": [
+                "Jelly Beans",
+                "Being 'up here' while Bethenny is 'down here'",
+                "Photo shoots"
+            ],
+            "dislikes": [
+                "Scary Island",
+                "Skinnygirl"
+            ],
+            "taglines": [
+                "Season 1: I've created a great life, and I love living it.",
+                "Season 2: I've created a great life, and I love living it.",
+                "Season 3: I'm living the American Dream, one mistake at a time."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=SHrl91vWdgY"
+        },
+        {
+            "id": 30,
+            "first_name": "Sonja",
+            "nickname": "Sonjarita",
+            "last_name": "Morgan",
+            "city": "New York City",
+            "show": "The Real Housewives of New York City",
+            "birthday": "11/25/1963",
+            "seasons": [
+                "3", 
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12"
+            ],
+            "children": [
+                "Quincy Adams Morgan"
+            ],
+            "likes": [
+                "Her toaster oven line",
+                "Men",
+                "Reminiscing about being a Morgan"
+            ],
+            "dislikes": [
+                "When anyone touches the Morgan letters"
+            ],
+            "taglines": [
+                "Season 3: I have a taste for luxury, and luxury has a taste for me.",
+                "Season 4: I have a taste for luxury, and luxury has a taste for me.",
+                "Season 5: A little Sonja will spice up any party",
+                "Season 6: Sometimes Sonja has to go commando. What can I say?",
+                "Season 7: My yacht may have sailed, but my ship is comin' in.",
+                "Season 8: If being Sonja is so wrong, why does it feel so right?",
+                "Season 9: There's nothing grey about my gardens.",
+                "Season 10: I'm not just a last name. I'm a legacy",
+                "Season 11: People call me over the top, but lately I prefer being a bottom",
+                "Season 12: I’m no one’s arm candy, I’m the whole bowl of sugar."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=unPfwIRoY-c&t=577s"
+        },
+        {
+            "id": 31,
+            "first_name": "Cindy",
+            "last_name": "Barshop",
+            "city": "New York City",
+            "show": "The Real Housewives of New York City",
+            "birthday": "10/11/1964",
+            "seasons": [
+                "4"
+            ],
+            "likes": [
+                "Vajazzling",
+                "Vaginal Rejuvenation",
+                "Vampire breast lifts"
+            ],
+            "taglines": [
+                "Season 4: I have everything I've ever wanted, and it's all on my own terms."
+            ]
+        },
+        {
+            "id": 32,
+            "first_name": "Aviva",
+            "last_name": "Drescher",
+            "city": "New York City",
+            "show": "The Real Housewives of New York City",
+            "birthday": "09/09/1970",
+            "seasons": [
+                "5", 
+                "6"
+            ],
+            "likes": [
+                "Her creepy dad",
+                "Throwing her fake leg around as a party trick",
+                ""
+            ],
+            "dislikes": [
+                "Don't call her fake or artificial, the only thing fake about her is her leg."
+            ],
+            "taglines": [
+                "Season 5: Never underestimate a woman born and raised in New York City.",
+                "Season 6: When people tell me I'm fake, I know they're just pulling my leg."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=yxIffG6NNEM"
+        },
+        {
+            "id": 33,
+            "first_name": "Carole",
+            "last_name": "Radziwill",
+            "city": "New York City",
+            "show": "The Real Housewives of New York City",
+            "birthday": "08/20/1963",
+            "seasons": [
+                "5", 
+                "6",
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "previous_partners": [
+                "Adam",
+                "Anthony Radziwill"
+            ],
+            "likes": [
+                "Running marathons",
+                "Telling people she's a former princess",
+                "Reminding people JFK was her best friend"
+            ],
+            "dislikes": [
+                "Bethenny's attitude",
+                "When people don't stand up to Bethenny"
+            ],
+            "taglines": [
+                "Season 5: I may be a princess, but I'm definitely not a drama queen.",
+                "Season 6: If you're going to talk about me behind my back, at least check out my great ass.",
+                "Season 7: All play and no work makes me a happy girl.",
+                "Season 8: I plan for the future, but live in the moment.",
+                "Season 9: In the politics of friendship, I win the popular vote.",
+                "Season 10: In the marathon of life, loyalty is everything"
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=y-08bGvgHRM"
+        },
+        {
+            "id": 34,
+            "first_name": "Heather",
+            "nickname": "HOLLA",
+            "last_name": "Thomson",
+            "city": "New York City",
+            "show": "The Real Housewives of New York City",
+            "birthday": "11/04/1970",
+            "seasons": [
+                "5", 
+                "6",
+                "7"
+            ],
+            "children": [
+                "Jax Schindler",
+                "Ella Rae Schindler"
+            ],
+            "likes": [
+                "HOLLA",
+                "Yummie Tummie shapewear",
+                "Designing dope ass loungewear"
+            ],
+            "dislikes": [
+                "Being called uncool",
+                "Waking up next to strange naked men"
+            ],
+            "taglines": [
+                "Season 5: My success is built on making women look and feel their best. Holla!",
+                "Season 6: A true New Yorker never backs down, and I’m no exception. Holla!",
+                "Season 7: A true New Yorker never backs down, and I’m no exception. Holla!"
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=F7odLUSekWA"
+        },
+        {
+            "id": 35,
+            "first_name": "Kristen",
+            "last_name": "Taekman",
+            "city": "New York City",
+            "show": "The Real Housewives of New York City",
+            "birthday": "04/21/1977",
+            "seasons": [
+                "6", 
+                "7"
+            ],
+            "partner": "Josh Taekman",
+            "children": [
+                "Kingsley",
+                "Cassius"
+            ],
+            "likes": [
+                "Modeling",
+                "Blogging",
+                "Fashion"
+            ],
+            "dislikes": [
+                "Having a glass of wine thrown at her face"
+            ],
+            "taglines": [
+                "Season 6: I may not be the sharpest tool in the shed, but I’m pretty!",
+                "Season 7: Pretty is smarter than you think."
+            ]
+        },
+        {
+            "id": 36,
+            "first_name": "Dorinda",
+            "nickname": "Make It Nice",
+            "last_name": "Medley",
+            "city": "New York City",
+            "show": "The Real Housewives of New York City",
+            "birthday": "12/13/1964",
+            "seasons": [
+                "7", 
+                "8",
+                "9",
+                "10",
+                "11",
+                "12"
+            ],
+            "previous_partners": [
+                "Richard Medley, RIP",
+                "John, what was he doing there without Dorinda?"
+            ],
+            "children": [
+                "Hannah"
+            ],
+            "likes": [
+                "Christmas",
+                "Making it nice",
+                "The Berkshires",
+                "Martinis"
+            ],
+            "dislikes": [
+                "Tinsley",
+                "People talking to her about her drinking"
+            ],
+            "taglines": [
+                "Season 7: I give Uptown a whole new attitude.",
+                "Season 8: Diamonds aren’t a girl’s best friend, martinis are!",
+                "Season 9: I tell it like it is, but I always make it nice.",
+                "Season 10: I have a big heart, but little patience.",
+                "Season 11: If you’ve got a problem with me, it’s your problem!",
+                "Season 12: Like a mint in my mouth, I can be a bit fresh."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=ee3ClfA0LjE"
+        },
+        {
+            "id": 37,
+            "first_name": "Jules",
+            "last_name": "Wainstein",
+            "city": "New York City",
+            "show": "The Real Housewives of New York City",
+            "birthday": "02/02/1981",
+            "seasons": [
+                "8"
+            ],
+            "previous_partners": "Michael Wainstein",
+            "children": [
+                "Jagger",
+                "Rio"
+            ],
+            "taglines": [
+                "Season 8: A Jew and an Asian walk into the bar…then they had me!"
+            ]
+        },
+        {
+            "id": 38,
+            "first_name": "Tinsley",
+            "last_name": "Mortimer",
+            "city": "New York City",
+            "show": "The Real Housewives of New York City",
+            "birthday": "08/11/1975",
+            "seasons": [
+                "9", 
+                "10",
+                "11",
+                "12"
+            ],
+            "partner": "Scott Kluth, fiance",
+            "previous_partners": "Topper Mortimer",
+            "children": [
+                "Her dogs",
+                "Eggs are frozen"
+            ],
+            "likes": [
+                "Her dogs",
+                "Scott",
+                "Trying on wedding dresses without a boyfriend",
+                "Being the girliest of girls",
+                "Room service"
+            ],
+            "dislikes": [
+                "Dorinda's attitude",
+                "Too much commentary about her relationship with Scott"
+            ],
+            "taglines": [
+                "Season 9: A good set of lashes can fix anything…even a mugshot.",
+                "Season 10: Come on, why cook when I can order room service?",
+                "Season 11: Game, set, now, I need a match.",
+                "Season 12: Life isn't a fairytale, but I'm hoping mine's the exception."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=i48W6iJ8n7Q"
+        },
+        {
+            "id": 39,
+            "first_name": "Leah",
+            "last_name": "McSweeney",
+            "city": "New York City",
+            "show": "The Real Housewives of New York City",
+            "birthday": "08/27/1982",
+            "seasons": [
+                "12"
+            ],
+            "previous_partners": "Rob Cristofaro",
+            "children": [
+                "KiKi"
+            ],
+            "likes": [
+                "Married To The Mob activewear",
+                "Telling it like it is",
+                "Genuinely being fabulous"
+            ],
+            "dislikes": [
+                "Tiki torches",
+                "When you talk about her mental health AND/OR her vagina",
+                "Ramona's judgmental attitude"
+            ],
+            "taglines": [
+                "Season 12: I’ll say sorry for what I’ve done, but never for who I am."
+            ],
+            "memorable_moments_url": ""
+        },
+        {
+            "id": 40,
+            "first_name": "Linnethia",
+            "nickname": "NeNe",
+            "last_name": "Leakes",
+            "city": "Atlanta",
+            "show": "The Real Housewives of Atlanta",
+            "birthday": "12/13/1967",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "10",
+                "11",
+                "12"
+            ],
+            "partner": "Gregg Leakes",
+            "children": [
+                "Bryson",
+                "Brentt"
+            ],
+            "likes": [
+                "BLOOP",
+                "WIG",
+                "Leaving the other housewives in the dust when Ryan Murphy calls",
+                "St. Germain cocktails"
+            ],
+            "dislikes": [
+                "Kim Zolciak",
+                "People going into her closet",
+                "Being late to her events"
+            ],
+            "taglines": [
+                "Season 1: I don’t keep up with the Jones’, I am the Jones'.",
+                "Season 2: I don’t keep up with the Jones’, I am the Jones'.",
+                "Season 3: When I walk into the room, I own it.",
+                "Season 4: When I walk into the room, I own it.",
+                "Season 5: I have arrived, and the spotlight is on me, honey.",
+                "Season 6: Success is in my DNA. When one door closes, another one opens.",
+                "Season 7: Why be so nasty and so rude -- when I can be so fierce and so successful.",
+                "Season 10: Ten years in the game and I'm still the tastiest peach in Atlanta.",
+                "Season 11: I am the glue for my wig and my family!",
+                "Season 12: I’m on a spiritual journey and still traveling first class."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=5L6yJczlfew"
+        },
+        {
+            "id": 41,
+            "first_name": "DeShawn",
+            "last_name": "Snow",
+            "city": "Atlanta",
+            "show": "The Real Housewives of Atlanta",
+            "birthday": "03/17/1973",
+            "previous_partners": "Eric Snow",
+            "seasons": [
+                "1"
+            ],
+            "children": [
+                "Eric",
+                "Jarren",
+                "Darius"
+            ],
+            "likes": [
+                "Talking abbout her dream home",
+                "Refusing to get into petty arguments"
+            ],
+            "dislikes": [
+                "Her husband's mistress",
+                "Showing her real life on camera"
+            ],
+            "taglines": [
+                "Season 1: I always knew I was destined for greatness."
+            ]
+        },
+        {
+            "id": 42,
+            "first_name": "Shereé",
+            "nickname": "Who gon' check me, boo?",
+            "last_name": "Whitfield",
+            "city": "Atlanta",
+            "show": "The Real Housewives of Atlanta",
+            "birthday": "01/02/1970",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4",
+                "9",
+                "10"
+            ],
+            "previous_partners": "Bob Whitfield",
+            "children": [
+                "Tierra Fuller",
+                "Kairo Whitfield",
+                "Kaleigh Whitfield"
+            ],
+            "likes": [
+                "Spending years curating Chateau Shereé",
+                "Collecting bones",
+                "Being momager to Kairo"
+            ],
+            "dislikes": [
+                "Party planners giving her a reality check",
+                "When people can't see her vision for 'She by Shereé'",
+                "When NeNe yells 'I'm very rich, bitch' at her"
+            ],
+            "taglines": [
+                "Season 1: People are intimidated by my success.",
+                "Season 2: People are intimidated by my success.",
+                "Season 3: I like things that are elegant and sophisticated, just like me.",
+                "Season 4: I like things that are elegant and sophisticated, just like me.",
+                "Season 9: Don't call it a comeback, call it a takeover!",
+                "Season 10: Call me a bad server, 'cause I always spill the tea."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=bifQCG3gBzw"
+        },
+        {
+            "id": 43,
+            "first_name": "Lisa",
+            "last_name": "Wu",
+            "city": "Atlanta",
+            "show": "The Real Housewives of Atlanta",
+            "birthday": "01/23/1973",
+            "seasons": [
+                "1", 
+                "2"
+            ],
+            "previous_partners": [
+                "Kieth Sweet",
+                "Ed Hartwell"
+            ],
+            "children": [
+                "Jordan Sweet",
+                "Justin Sweet",
+                "Ed Hartwell Jr."
+            ],
+            "likes": [
+                "Her fashion line Closet Freaks",
+                "Pole dancing parties"
+            ],
+            "dislikes": [
+                "Ed training for the NFL after his injury",
+                "People not being genuine"
+            ],
+            "taglines": [
+                "Season 1: If it doesn’t make me money, I don’t do it.",
+                "Season 2: If it doesn’t make me money, I don’t do it."
+            ]
+        },
+        {
+            "id": 44,
+            "first_name": "Kimberleigh",
+            "nickname": "Kim",
+            "last_name": "Zolciak-Biermann",
+            "birthday": "05/19/1978",
+            "partner": "Kroy Biermann",
+            "previous_partners": [
+                "Daniel Toce",
+                "Big Papa"
+            ],
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "children": [
+                "Brielle",
+                "Ariana",
+                "Kaia",
+                "Kroy KJ Jagger",
+                "Kash",
+                "Kane"
+            ],
+            "likes": [
+                "Drinking martinis and smokin cigs",
+                "Eating pizza while getting glam",
+                "Her psychic Rose",
+                "Red solo cups",
+                "Taking all the money for Tardy for the Party"
+            ],
+            "dislikes": [
+                "Being asked to sing live",
+                "NeNe Leakes",
+                "Having her wigs mistreated",
+                "People who are tardy to the party"
+            ],
+            "taglines": [
+                "Season 1: In Atlanta, money and class do give you power.",
+                "Season 2: In Atlanta, money and class do give you power.",
+                "Season 3: People call me a gold digger, but they just want what I have.",
+                "Season 4: People call me a gold digger, but they just want what I have.",
+                "Season 5: I asked, believed, and I received."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=wNSwN6dcJcc"
+        },
+        {
+            "id": 45,
+            "first_name": "Kandi",
+            "last_name": "Burruss",
+            "city": "Atlanta",
+            "show": "The Real Housewives of Atlanta",
+            "birthday": "05/17/1976",
+            "seasons": [
+                "2", 
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13"
+            ],
+            "partner": "Todd Tucker",
+            "children": [
+                "Riley Burrus",
+                "Ace Tucker",
+                "Blaze Tucker",
+                "Kaela Tucker"
+            ],
+            "likes": [
+                "When parties have good food",
+                "Building her sex toy and restaurant empires",
+                "Never letting people forget she wrote TLC's 'No Scrubs'"
+            ],
+            "dislikes": [
+                "Momma Joyce throwing shoes at her friends",
+                "Not being offered food",
+                "Not getting proper royalties for writing 'Tardy to the Party'"
+            ],
+            "taglines": [
+                "Season 2: I'm an independent woman doing it for myself.",
+                "Season 3: I have fame and fortune, and I’ve earned it.",
+                "Season 4: I have fame and fortune, and I’ve earned it.",
+                "Season 5: I may be small, but my empire keeps on growing.",
+                "Season 6: Music may be my passion, but family is forever.",
+                "Season 7: I'm not about the drama. Don't start none, won't be none.",
+                "Season 8: I'm a hitmaker and this year I will reveal the best one.",
+                "Season 9: Now that I’ve got my Ace, I’ve got a full house.",
+                "Season 10: Don't mess with the boss, cause you might get fired",
+                "Season 11: I count my blessings—and my checks!",
+                "Season 12: Don't check for me unless you got a cheque for me.",
+                "Season 13: A little Kandi always helps sweeten the tea."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=sbrHY7PpXcA"
+        },
+        {
+            "id": 46,
+            "first_name": "Cynthia",
+            "last_name": "Bailey",
+            "city": "Atlanta",
+            "show": "The Real Housewives of Atlanta",
+            "birthday": "02/19/1967",
+            "seasons": [
+                "3", 
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13"
+            ],
+            "partner": "Mike Hill",
+            "previous_partners": "Peter Thomas",
+            "children": [
+                "Noelle Robinson"
+            ],
+            "likes": [
+                "Friendship contracts",
+                "Making Lake Bailey her oasis",
+                "Putting her name on everything she does (Bailey Wine Cellar, Bailey Agency School of Fashion, Cynthia Bailey Eyewear, and Cargo by Cynthia Bailey)"
+            ],
+            "dislikes": [
+                "Having her wedding license hidden by her sister and mom",
+                "Twerking (mainly because she can't)",
+                "Having her conversations recorded when she talks about NeNe"
+            ],
+            "taglines": [
+                "Season 3: I know how to work it, and be seen.",
+                "Season 4: I know how to work it, and be seen.",
+                "Season 5: Beauty fades, class is forever.",
+                "Season 6: My business is beauty, and I'm the boss.",
+                "Season 7: Life is about choices, and I choose Cynthia.",
+                "Season 8: Seasons may change, but Cynthia Bailey never goes out of style.",
+                "Season 9: Life is a run way and Cynthia Bailey is walk in alone.",
+                "Season 10: Age is just a number ,but these cheekbones are timeless.",
+                "Season 11: I age like fine wine, and now, I am ready to chill.",
+                "Season 12: The only time that I look back is to see how far I've come.",
+                "Season 13: I've been through the peaks and the valleys, and now I’m head over Hills."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=hb61fX7lWXo"
+        },
+        {
+            "id": 47,
+            "first_name": "Phaedra",
+            "last_name": "Parks",
+            "city": "Atlanta",
+            "show": "The Real Housewives of Atlanta",
+            "birthday": "10/26/1973",
+            "seasons": [
+                "3", 
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "previous_partners": "Apollo Nida",
+            "children": [
+                "Dylan",
+                "Ayden"
+            ],
+            "likes": [
+                "Grand entrances at her childrens' birthday parties",
+                "Family-run funeral homes",
+                "Her booty"
+            ],
+            "dislikes": [
+                "When her husband flirts with Kenya Moore",
+                "Keeping track of her due date",
+                "Getting caught talking to Mr. Chocolate"
+            ],
+            "taglines": [
+                "Season 3: I’m the ultimate Southern belle, I get what I want.",
+                "Season 4: I’m the ultimate Southern belle, I get what I want.",
+                "Season 5: I’m a Southern belle. Brains, booty, and all business.",
+                "Season 6: A true southern belle knows her worth, and I am priceless.",
+                "Season 7: When it comes to my family, I'm the judge and the jury.",
+                "Season 8: Only God can judge me, and he seems quite impressed.",
+                "Season 9: You can't always get what you want, but I can."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=bGl85MYsS2g"
+        },
+        {
+            "id": 48,
+            "first_name": "Kenya",
+            "last_name": "Moore",
+            "city": "Atlanta",
+            "show": "The Real Housewives of Atlanta",
+            "birthday": "01/24/1971",
+            "seasons": [
+                "5", 
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "partner": "Marc Daly (separated)",
+            "children": [
+                "Brooklyn"
+            ],
+            "likes": [
+                "Twirling",
+                "Being Gone With The Wind Fabulous",
+                "Promoting her haircare line whenever possible, even at Marlo's wig event."
+            ],
+            "dislikes": [
+                "When people mistake her for Miss America instead of Miss USA",
+                "People criticizing her house or its steep, long driveway",
+                "When people call her man Casper the friendly boyfriend"
+            ],
+            "taglines": [
+                "Season 5: I won Miss USA, not Miss Congeniality",
+                "Season 6: People may think they have me figured out, but I am always the wild card.",
+                "Season 7: People get exhausted trying to figure me out. And I just let them.",
+                "Season 8: Don't come for me, unless I twirl for you.",
+                "Season 9: I give the people what they want, and they always want more."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=aKuDAft99uY"
+        },
+        {
+            "id": 49,
+            "first_name": "Porsha",
+            "last_name": "Williams",
+            "city": "Atlanta",
+            "show": "The Real Housewives of Atlanta",
+            "birthday": "06/22/1981",
+            "seasons": [
+                "5", 
+                "6",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13"
+            ],
+            "previous_partners": "Kordell Stewart",
+            "children": [
+                "Pilar McKinley"
+            ],
+            "likes": [
+                "Hennessy",
+                "Spilling tea on Dish Nation",
+                "Reminding everyone she's vegan",
+                "Fighting for social justice"
+            ],
+            "dislikes": [
+                "Megaphones in her face as this may cause her to drag you by your hair",
+                "Being reminded she thought the Underground Railroad was a real train",
+                "Being tricked into doing Phaedra's dirty work"
+            ],
+            "taglines": [
+                "Season 5: People say I have a picture perfect life, and I do.",
+                "Season 6: I am still standing, and I am making my own rules.",
+                "Season 8: I'm about to give you life, so stay out of my way!",
+                "Season 9: I'm too blessed to be stressed, and too sexy to be thirsty.",
+                "Season 10: Friends come and go, but family is forever.",
+                "Season 11: I took a lot of left turns but now, things are just right.",
+                "Season 12: This phoenix has risen, and I'm saying bye, ashes!",
+                "Season 13: I may be social distancing, but I’m here for social justice."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=69hWiJPNlIE"
+        },
+        {
+            "id": 50,
+            "first_name": "Claudia",
+            "last_name": "Jordan",
+            "city": "Atlanta",
+            "show": "The Real Housewives of Atlanta",
+            "birthday": "04/12/1973",
+            "seasons": [
+                "7"
+            ],
+            "likes": [
+                "Reminding people she was Miss USA"
+            ],
+            "dislikes": [
+                "People saying she has no storyline",
+                "NeNe Leakes"
+            ],
+            "taglines": [
+                "Season 7: Don't hate me because I'm beautiful. Hate me because I'm here to stay."
+            ]
+        },
+        {
+            "id": 51,
+            "first_name": "Kim",
+            "last_name": "Fields",
+            "city": "Atlanta",
+            "show": "The Real Housewives of Atlanta",
+            "birthday": "05/12/1969",
+            "seasons": [
+                "8"
+            ],
+            "partner": "Christopher Morgan",
+            "previous_partners": "Jonathon Franklin Freeman",
+            "children": [
+                "Sebastian",
+                "Quincy"
+            ],
+            "likes": [
+                "Staying at home with her family"
+            ],
+            "dislikes": [
+                "Revealing clothing"
+            ],
+            "taglines": [
+                "Season 8: Faith, family and career -- those are the facts of my life."
+            ]
+        },
+        {
+            "id": 52,
+            "first_name": "Shamari",
+            "last_name": "DeVoe",
+            "city": "Atlanta",
+            "show": "The Real Housewives of Atlanta",
+            "birthday": "02/22/1980",
+            "seasons": [
+                "11"
+            ],
+            "partner": "Ronnie DeVoe",
+            "children": [
+                "Ronald",
+                "Roman"
+            ],
+            "likes": [
+                "Oversharing about her sex life before discussing it with her husband",
+                "Reminding people she was in the girl group Blaque"
+            ],
+            "dislikes": [
+                "Being told she needs help with her fashion sense"
+            ],
+            "taglines": [
+                "Season 11: I may be an open book, but that does not mean I am easily read."
+            ]
+        },
+        {
+            "id": 53,
+            "first_name": "Eva",
+            "last_name": "Marcille",
+            "city": "Atlanta",
+            "show": "The Real Housewives of Atlanta",
+            "birthday": "10/30/1984",
+            "seasons": [
+                "11", 
+                "12"
+            ],
+            "partner": "Michael Sterling",
+            "children": [
+                "Marley Rae",
+                "Maverick",
+                "Michael Jr."
+            ],
+            "likes": [
+                "Sticking to her hippie vibe despite what the ladies say",
+                "Maintaining she's a better model than Cynthia",
+                "Supporting her man running for Mayor"
+            ],
+            "dislikes": [
+                "People gossipping about her houses and finances",
+                "Being called boring",
+                "Not taking your mic off to talk to her after she's stormed off"
+            ],
+            "taglines": [
+                "Season 11: I live a model life, now I’m ready to be a top wife.",
+                "Season 12: I'm living my dreams not above my means."
+            ]
+        },
+        {
+            "id": 54,
+            "first_name": "Drew",
+            "last_name": "Sidora",
+            "city": "Atlanta",
+            "show": "The Real Housewives of Atlanta",
+            "birthday": "05/01/1985",
+            "seasons": [
+                "13"
+            ],
+            "partner": "Ralph Pittman",
+            "children": [
+                "Machai",
+                "Aniya"
+            ],
+            "likes": [
+                "Handing out signed autographs for a good clapback moment"
+            ],
+            "dislikes": [
+                "People comparing her wigs to an animal"
+            ],
+            "taglines": [
+                "Season 13: I was in The Game, but now? I’m calling all the plays."
+            ]
+        },
+        {
+            "id": 55,
+            "first_name": "Teresa",
+            "nickname": "Tre",
+            "last_name": "Giudice",
+            "city": "New Jersey",
+            "show": "The Real Housewives of New Jersey",
+            "birthday": "05/18/1972",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11"
+            ],
+            "partner": "Luis Ruelas",
+            "previous_partners": "Juicy Joe Giudice",
+            "children": [
+                "Gia",
+                "Gabriella",
+                "Milania",
+                "Audriana"
+            ],
+            "likes": [
+                "Cumin, pronounced 'come-in'",
+                "Pretending she writes her own cookbooks",
+                "Being more Italian than Caroline Manzo",
+                "Love, love, love",
+                "Trying to take down Melissa Gorga",
+                "Spreading baseless gossip",
+                "Flipping tables"
+            ],
+            "dislikes": [
+                "Being told to pay attention",
+                "Prostitution whores",
+                "Danielle Staub"
+            ],
+            "taglines": [
+                "Season 1: People make fun of Jersey girls, but I think they're just jealous.",
+                "Season 2: People make fun of Jersey girls, but I think they're just jealous.",
+                "Season 3: I'm a Jersey girl, no one can knock me down.",
+                "Season 4: When times get tough, you learn who your real friends are.",
+                "Season 5: Haters are gonna hate, but I just love, love, love.",
+                "Season 6: You never know how strong you are until it's the only choice you have.",
+                "Season 7: I used to flip tables, now I'm turning them.",
+                "Season 8: If you're not about the namaste, then get the hell out of my way.",
+                "Season 9: These days, I don't throw punches...I roll with them.",
+                "Season 10: If you rub me the wrong way, there'll be no more namaste.",
+                "Season 11: They say it's never too late to start over. I say, starting over never tasted so good."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=6zTA6J_1AX0"
+        },
+        {
+            "id": 56,
+            "first_name": "Jacqueline",
+            "last_name": "Laurita",
+            "city": "New Jersey",
+            "show": "The Real Housewives of New Jersey",
+            "birthday": "04/26/1970",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "partner": "Chris Laurita",
+            "previous_partners": "Matthew Holmes",
+            "children": [
+                "Ashlee",
+                "Nicolas",
+                "CJ"
+            ],
+            "likes": [
+                "Calling Teresa out",
+                "Raising autism awareness",
+                "Getting facial fillers"
+            ],
+            "dislikes": [
+                "Teresa's bullshit",
+                "Danielle Staub"
+            ],
+            "taglines": [
+                "Season 1: Everyone likes to have nice things, but I'm not one to brag about it.",
+                "Season 2: Everyone likes to have nice things, but I'm not one to brag about it.",
+                "Season 3: I can hold me own. I am my own person.",
+                "Season 4: I am a Vegas girl, I will call your bluff.",
+                "Season 5: I've faced my share of challenges, but I'm tougher than I look"
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=-S5TSygc0Ms"
+        },
+        {
+            "id": 57,
+            "first_name": "Caroline",
+            "last_name": "Manzo",
+            "city": "New Jersey",
+            "show": "The Real Housewives of New Jersey",
+            "birthday": "08/23/1961",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "partner": "Albert Manzo",
+            "children": [
+                "Albert 'Albie' Manzo",
+                "Christopher Manzo",
+                "Lauren Manzo"
+            ],
+            "likes": [
+                "Her family. They are thick as thieves if you didn't know.",
+                "Spending time at the Brownstone",
+                "Very proud of how Italian she is"
+            ],
+            "dislikes": [
+                "When people question how Italian she is",
+                "Anyone who talks about her kids, especially in a cookbobok",
+                "Danielle Staub"
+            ],
+            "taglines": [
+                "Season 1: If you're gonna mess with my family, you’re messing with me.",
+                "Season 2: If you're gonna mess with my family, you’re messing with me.",
+                "Season 3: Life is about change, sometimes you just have to roll with the punches.",
+                "Season 4: Life is short, I have no time for drama.",
+                "Season 5: Love me or hate me, I always speak the truth."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=kYsDiICkqWE"
+        },
+        {
+            "id": 58,
+            "first_name": "Dina",
+            "last_name": "Manzo",
+            "city": "New Jersey",
+            "show": "The Real Housewives of New Jersey",
+            "birthday": "03/07/1972",
+            "seasons": [
+                "1", 
+                "2",
+                "6"
+            ],
+            "partner": "Dave Cantin",
+            "previous_partners": "Tommy Manzo",
+            "children": [
+                "Lexi"
+            ],
+            "likes": [
+                "Being spiritual",
+                "Having lots of animals",
+                "Project Ladybug, her foundation which gives back to children with cancer"
+            ],
+            "dislikes": [
+                "Danielle Staub",
+                "Being involved in any drama"
+            ],
+            "taglines": [
+                "Season 1: If you think I'm a bitch, then bring it on.",
+                "Season 2: If you think I'm a bitch, then bring it on.",
+                "Season 6: I'm back to bring the zen. Namaste, bitches!"
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=7tq4e2F2biU"
+        },
+        {
+            "id": 59,
+            "first_name": "Beverly",
+            "nickname": "Danielle",
+            "last_name": "Staub",
+            "city": "New Jersey",
+            "show": "The Real Housewives of New Jersey",
+            "birthday": "07/29/1962",
+            "seasons": [
+                "1", 
+                "2"
+            ],
+            "previous_partners": [
+                "Kevin Maher",
+                "Thomas Staub",
+                "Marty Caffrey"
+            ],
+            "children": [
+                "Christine",
+                "Jillian"
+            ],
+            "likes": [
+                "Getting engaged",
+                "Attention"
+            ],
+            "dislikes": [
+                "Having tables flipped at her",
+                "Being called a prostitution whore",
+                "Not getting enough attention"
+            ],
+            "taglines": [
+                "Season 1: You're either gonna love me or hate me. There is no in between.",
+                "Season 2: You're either gonna love me or hate me. There is no in between with me."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=iizLV3i85kM"
+        },
+        {
+            "id": 60,
+            "first_name": "Melissa",
+            "nickname": "Thank You Jesus",
+            "last_name": "Gorga",
+            "city": "New Jersey",
+            "show": "The Real Housewives of New Jersey",
+            "birthday": "03/21/1979",
+            "seasons": [
+                "3", 
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11"
+            ],
+            "partner": "Joey Gorga",
+            "children": [
+                "Antonia Gorga",
+                "Gino Gorga",
+                "Giuseppe 'Joey' Gorga"
+            ],
+            "likes": [
+                "Being On Display",
+                "Thanking Jesus",
+                "Showing off her hot bod"
+            ],
+            "dislikes": [
+                "Trying to navigate anything with Teresa",
+                "Danielle Staub"
+            ],
+            "taglines": [
+                "Season 3: I live a life that most girls only dream of.",
+                "Season 4: I never throw the first punch, but I’m always a knockout.",
+                "Season 5: Sexy life, loyal wife, take a page from my book.",
+                "Season 6: I've learned to forgive and never regret.",
+                "Season 7: I always act like a lady, but now I think like a boss.",
+                "Season 8: The only life I envy is my own.",
+                "Season 9: Don't try to bully me, because I'm a boss.",
+                "Season 10: Mirror, mirror on the wall; I don't think I look 40 at all.",
+                "Season 11: I can tell you're green with envy and honey, green is not your color."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=dJMNw1IEQFg"
+        },
+        {
+            "id": 61,
+            "first_name": "Kathy",
+            "last_name": "Wakile",
+            "city": "New Jersey",
+            "show": "The Real Housewives of New Jersey",
+            "birthday": "",
+            "seasons": [
+                "3", 
+                "4",
+                "5"
+            ],
+            "partner": "Richard Wakile",
+            "children": [
+                "Victoria",
+                "Joseph"
+            ],
+            "likes": [
+                "Baking",
+                "Reminding everyone she is family to Teresa"
+            ],
+            "dislikes": [
+                "Melissa and Joe Gorga",
+                "Teresa and Joe Giudice",
+                "Danielle Staub"
+            ],
+            "taglines": [
+                "Season 3: People say that I'm sweet, but I'm tough, so don't cross me.",
+                "Season 4: We're old school, we believe in respect.",
+                "Season 5: If you can't take the heat, get out of my kitchen."
+            ]
+        },
+        {
+            "id": 62,
+            "first_name": "Teresa",
+            "last_name": "Aprea",
+            "city": "New Jersey",
+            "show": "The Real Housewives of New Jersey",
+            "birthday": "09/04/1969",
+            "seasons": [
+                "6"
+            ],
+            "partner": "Rino Aprea",
+            "children": [
+                "Giovanni"
+            ],
+            "likes": [
+                "Her twin"
+            ],
+            "dislikes": [
+                "Knowing she was on the worst RHONJ season ever"
+            ],
+            "taglines": [
+                "Season 6: You're not seeing double, you're seeing trouble!"
+            ]
+        },
+        {
+            "id": 63,
+            "first_name": "Nicole",
+            "last_name": "Napolitano",
+            "city": "New Jersey",
+            "show": "The Real Housewives of New Jersey",
+            "birthday": "09/04/1969",
+            "seasons": [
+                "6"
+            ],
+            "previous_partners": "Joseph Mauriello",
+            "children": [
+                "Joey",
+                "Anthony"
+            ],
+            "likes": [
+                "Her twin"
+            ],
+            "dislikes": [
+                "Knowing she was on the worst RHONJ season ever"
+            ],
+            "taglines": [
+                "Season 6: You're not seeing double, you're seeing trouble!"
+            ]
+        },
+        {
+            "id": 64,
+            "first_name": "Amber",
+            "last_name": "Marchese",
+            "city": "New Jersey",
+            "show": "The Real Housewives of New Jersey",
+            "birthday": "08/13/1977",
+            "seasons": [
+                "6"
+            ],
+            "partner": "Jim, yuck",
+            "children": [
+                "Corbin",
+                "Isabella",
+                "Michael",
+                "Sebastian"
+            ],
+            "likes": [
+                "Being problematic"
+            ],
+            "dislikes": [
+                "Knowing she was on the worst RHONJ season ever"
+            ],
+            "taglines": [
+                "Season 6: I'm a survivor, no one is bringing me down."
+            ]
+        },
+        {
+            "id": 65,
+            "first_name": "Dolores",
+            "last_name": "Catania",
+            "city": "New Jersey",
+            "show": "The Real Housewives of New Jersey",
+            "birthday": "12/28/1970",
+            "seasons": [
+                "7", 
+                "8",
+                "9",
+                "10",
+                "11"
+            ],
+            "partner": "David Principe, boyfriend",
+            "previous_partners": "Frank Catania",
+            "children": [
+                "Frank Jr."
+            ],
+            "likes": [
+                "Loyalty",
+                "Living with her ex husband while her son lives with her boyfriend"
+            ],
+            "dislikes": [
+                "Her boyfriend's lack of commitment",
+                "Scumbags",
+                "Danielle Staub"
+            ],
+            "taglines": [
+                "Season 7: I was raised Jersey strong. Nothing in this life can shake me.",
+                "Season 8: Look up loyalty in the dictionary, and you'll find my face.",
+                "Season 9: I may put up a tough front, but I'll never leave you behind.",
+                "Season 10: Behind every strong man, is a stronger Jersey girl.",
+                "Season 11: I'm loyal and I'm lovable, but don't you dare call me gullible."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=7H2INGFO3hw"
+        },
+        {
+            "id": 66,
+            "first_name": "Siggy",
+            "last_name": "Flicker",
+            "city": "New Jersey",
+            "show": "The Real Housewives of New Jersey",
+            "birthday": "06/01/1967",
+            "seasons": [
+                "7", 
+                "8"
+            ],
+            "partner": "Michael Campanella",
+            "previous_partners": "Mark Flicker",
+            "children": [
+                "Sophie",
+                "Josh"
+            ],
+            "likes": [
+                "Donald Trump",
+                "Spewing dangerous lies and conspiracy theories",
+                "Is a domestic terrorist"
+            ],
+            "dislikes": [
+                "People throwing cake",
+                "General logic and decency"
+            ],
+            "taglines": [
+                "Season 7: Some people think I'm too much... They're absolutely right.",
+                "Season 8: My motto is know your worth, leave the rest to your plastic surgeon."
+            ]
+        },
+        {
+            "id": 67,
+            "first_name": "Margaret",
+            "nickname": "The Marge",
+            "last_name": "Josephs",
+            "city": "New Jersey",
+            "show": "The Real Housewives of New Jersey",
+            "birthday": "04/09/1967",
+            "seasons": [
+                "8", 
+                "9",
+                "10",
+                "11"
+            ],
+            "partner": "Joe Benigno",
+            "previous_partners": "Jan Josephs",
+            "children": [
+                "Yes but wants their privacy protected"
+            ],
+            "likes": [
+                "Pigtails",
+                "Hanging with Marge Senior",
+                "Loud and vibrant home decor",
+                "Pushing peoples' husbands in the pool"
+            ],
+            "dislikes": [
+                "Danielle Staub",
+                "Drama",
+                "Drinking alcohol"
+            ],
+            "taglines": [
+                "Season 8: I bring the power, the pigtails and the party.",
+                "Season 9: I can make you laugh or make you cry...your choice.",
+                "Season 10: If you can't take the truth, sue me!",
+                "Season 11: I renovate, elevate and sometimes, I instigate."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=rBrbF_pPqmY"
+        },
+        {
+            "id": 68,
+            "first_name": "Jennifer",
+            "last_name": "Aydin",
+            "city": "New Jersey",
+            "show": "The Real Housewives of New Jersey",
+            "birthday": "04/16/1977",
+            "seasons": [
+                "9", 
+                "10",
+                "11"
+            ],
+            "partner": "Bill Aydin",
+            "children": [
+                "Justin",
+                "Jacob",
+                "Christian",
+                "Gabby",
+                "Olivia"
+            ],
+            "likes": [
+                "Plastic surgery",
+                "Kissing Teresa's ass",
+                "Starting Drama",
+                "Talking over people",
+                "Chanel"
+            ],
+            "dislikes": [
+                "Danielle Staub",
+                "Anyone trying to argue or reason with her"
+            ],
+            "taglines": [
+                "Season 9: I'm obsessed with family, traditions, and Chanel.",
+                "Season 10: As I always say, plastic makes perfect.",
+                "Season 11: Whoever says, 'Money can't buy happiness' clearly doesn't have my credit limit."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=hZjNpiQW2rg"
+        },
+        {
+            "id": 69,
+            "first_name": "Jackie",
+            "last_name": "Goldschneider",
+            "city": "New Jersey",
+            "show": "The Real Housewives of New Jersey",
+            "birthday": "10/02/1976",
+            "seasons": [
+                "9", 
+                "10",
+                "11"
+            ],
+            "partner": "Evan",
+            "children": [
+                "Jonas",
+                "Adin",
+                "Hudson",
+                "Alexis"
+            ],
+            "likes": [
+                "Outsmarting Teresa",
+                "Reminding people she's a lawyer",
+                "Saving her money"
+            ],
+            "dislikes": [
+                "Danielle Staub",
+                "Rumors being spread about her husband"
+            ],
+            "taglines": [
+                "Season 9: I have four kids, two degrees, and one kickass life.",
+                "Season 10: Don't let the minivan fool you, this mom won't roll over for anyone.",
+                "Season 11: I may be cut from a different cloth, but it's top-quality fabric."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=iLNwfK5iQaQ"
+        },
+        {
+            "id": 70,
+            "first_name": "Taylor",
+            "last_name": "Armstrong",
+            "city": "Beverly Hills",
+            "show": "The Real Housewives of Beverly  Hills",
+            "birthday": "06/10/1971",
+            "seasons": [
+                "1", 
+                "2",
+                "3"
+            ],
+            "partner": "John Bluher",
+            "previous_partners": "Russell Armstrong (RIP even though you were an abusive fraud)",
+            "children": [
+                "Kennedy"
+            ],
+            "likes": [
+                "Her big lips",
+                "Throwing extravagent parties for her daughter",
+                "Coming out on top"
+            ],
+            "dislikes": [
+                "Being lied to",
+                "When ENOUGH is ENOUGH"
+            ],
+            "taglines": [
+                "Season 1: It may look like I have it all, but I want more.",
+                "Season 2: I finally found my voice, and I’m not afraid to use it.",
+                "Season 3: I fought too hard for this zip code to go home now."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=Zgjx7QAgxuI"
+        },
+        {
+            "id": 71,
+            "first_name": "Camille",
+            "last_name": "Grammer",
+            "city": "Beverly Hills",
+            "show": "The Real Housewives of Beverly  Hills",
+            "birthday": "09/02/1968",
+            "seasons": [
+                "1", 
+                "2"
+            ],
+            "partner": "David Meyer",
+            "previous_partners": "Kelsey Grammer, piece of shit",
+            "children": [
+                "Mason",
+                "Jude"
+            ],
+            "likes": [
+                "Psychics",
+                "Stirring the pot",
+                "Sexy dancing",
+                "Throwing around terms like 'pernicious' and 'machiavellic'"
+            ],
+            "dislikes": [
+                "Her ex husband Kelsey",
+                "Being called a liar"
+            ],
+            "taglines": [
+                "Season 1: It’s time for me to come out of my husband’s shadow and shine.",
+                "Season 2: Diamonds aren’t a girl’s best friend — freedom is."
+            ],
+            "memorable_moments_url": ""
+        },
+        {
+            "id": 72,
+            "first_name": "Adrienne",
+            "last_name": "Maloof",
+            "city": "Beverly Hills",
+            "show": "The Real Housewives of Beverly  Hills",
+            "birthday": "09/04/1961",
+            "seasons": [
+                "1", 
+                "2",
+                "3"
+            ],
+            "previous_partners": "Paul Nassif",
+            "children": [
+                "Gavin Nassif",
+                "Colin Nassif",
+                "Christian Nassif"
+            ],
+            "likes": [
+                "Maloof Hooves",
+                "Putting tinsel in her hair"
+            ],
+            "dislikes": [
+                "Brandi Glanville for outing her surrogate secret"
+            ],
+            "taglines": [
+                "Season 1: Money is what I have, not who I am.",
+                "Season 2: Having it all is easy if you’re willing to work for it.",
+                "Season 3: Know your friends, show your enemies the door."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=3IYVljpd3lg"
+        },
+        {
+            "id": 73,
+            "first_name": "Kim",
+            "nickname": "You Stole My God Damn House",
+            "last_name": "Richards",
+            "city": "Beverly Hills",
+            "show": "The Real Housewives of Beverly  Hills",
+            "birthday": "09/19/1964",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "previous_partners": [
+                "G. Monty Brinson",
+                "Gregg Davis"
+            ],
+            "children": [
+                "Whitney Davis",
+                "Chad Davis",
+                "Kimberly Jackson",
+                "Brooke Wiederhorn"
+            ],
+            "likes": [
+                "Spending time with her children",
+                "Her dogs"
+            ],
+            "dislikes": [
+                "Don't talk about her.",
+                "Or her sobriety.",
+                "Or her shoplifting scandals.",
+                "Or the god damn house that Kyle stole",
+                "Or the bunny from Rinna"
+            ],
+            "taglines": [
+                "Season 1: I was a child star, but now my most important role is being a mother.",
+                "Season 2: People try to figure me out, but I’m one of a kind.",
+                "Season 3: Life is a journey, and I’m finding myself every day.",
+                "Season 4: Everybody loves a comeback story, especially starring me.",
+                "Season 5: I’ve been rich and I’ve been famous, but happiness beats them both."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=_zw9ToEVxT4"
+        },
+        {
+            "id": 74,
+            "first_name": "Kyle",
+            "last_name": "Richards",
+            "city": "Beverly Hills",
+            "show": "The Real Housewives of Beverly  Hills",
+            "birthday": "01/11/1969",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "partner": "Mauricio Umansky",
+            "children": [
+                "Farrah Aldjufrie",
+                "Alexia Umansky",
+                "Sophia Umansky",
+                "Portia Umansky"
+            ],
+            "likes": [
+                "Reminding people she was in the movie Halloween",
+                "Making herself the victim at every turn",
+                "Spending time with her adorable family"
+            ],
+            "dislikes": [
+                "Being called out",
+                "Not being liked"
+            ],
+            "taglines": [
+                "Season 1: In a town full of phonies, I’m not afraid to be me.",
+                "Season 2: I’m not the richest girl in Beverly Hills, but I am the luckiest.",
+                "Season 3: I’m born and raised in Beverly Hills. This is my town.",
+                "Season 4: I’m from this town. I know what’s real and I know what’s fake.",
+                "Season 5: In Beverly Hills, you can be anything, but it’s most important to be yourself.",
+                "Season 6: Planes and yachts are nice, but my happiness starts at home.",
+                "Season 7: I’m an expert on luxury, and I can always spot a fake.",
+                "Season 8: In this town, fame and money come and go, but friends should not.",
+                "Season 9: In Beverly Hills, the truth always has a away of rising to the top.",
+                "Season 10: Around here, there’s more than just dresses in everyone’s closet."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=y28FM1bZxUo"
+        },
+        {
+            "id": 75,
+            "first_name": "Lisa",
+            "last_name": "Vanderpump",
+            "city": "Beverly Hills",
+            "show": "The Real Housewives of Beverly  Hills",
+            "birthday": "09/15/1960",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "partner": "Ken Todd",
+            "children": [
+                "Pandora",
+                "Max"
+            ],
+            "likes": [
+                "Diamonds and Rosé",
+                "Animals",
+                "Playing chess"
+            ],
+            "dislikes": [
+                "Admitting when she's wrong",
+                "Anyone talking badly about her restaurants",
+                "Brandi Glanville"
+            ],
+            "taglines": [
+                "Season 1: In Beverly Hills it’s who you know, and I know everyone.",
+                "Season 2: Life in Beverly Hills is a game, and I make the rules.",
+                "Season 3: Life isn’t all diamonds and rosé, but it should be.",
+                "Season 4: Life is a sexy little dance, and I like to take the lead.",
+                "Season 5: Throw me to the wolves and I shall return, leading the pack.",
+                "Season 6: I'm passionate about dogs, just not crazy about bitches.",
+                "Season 7: The crown is heavy, darlings. So just leave it where it belongs.",
+                "Season 8: The Queen of Diamonds always has an ace up her sleeve.",
+                "Season 9: You can stab me in the back, but whilst you’re there, kiss my ass."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=yLBZQfkogIc"
+        },
+        {
+            "id": 76,
+            "first_name": "Brandi",
+            "last_name": "Glanville",
+            "city": "Beverly Hills",
+            "show": "The Real Housewives of Beverly  Hills",
+            "birthday": "11/06/1972",
+            "seasons": [
+                "3", 
+                "4",
+                "5"
+            ],
+            "previous_partners": "Eddie Cibrian",
+            "children": [
+                "Mason",
+                "Jake"
+            ],
+            "likes": [
+                "Drugs",
+                "Alcohol",
+                "Posting on social media while on both drugs and alcohol",
+                "Doing anything to stay relevant and get back on the show"
+            ],
+            "dislikes": [
+                "Lisa Vanderpump",
+                "The fact that she's not on the show anymore"
+            ],
+            "taglines": [
+                "Season 3: Money doesn’t give you class, it just gives you money.",
+                "Season 4: In Beverly Hills, the higher you climb the farther you fall.",
+                "Season 5: I’d rather spend my life kicking ass than kissing it."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=WhT9-81bHcs"
+        },
+        {
+            "id": 77,
+            "first_name": "Yolanda",
+            "last_name": "Hadid",
+            "city": "Beverly Hills",
+            "show": "The Real Housewives of Beverly  Hills",
+            "birthday": "01/11/1964",
+            "seasons": [
+                "3", 
+                "4",
+                "5",
+                "6"
+            ],
+            "previous_partners": [
+                "Mohamed Hadid",
+                "David Foster"
+            ],
+            "children": [
+                "GiGi",
+                "Bella",
+                "Anwar"
+            ],
+            "likes": [
+                "Spending time with and doing things for her family",
+                "Her lemon grove",
+                "Her epic refridgerator"
+            ],
+            "dislikes": [
+                "Don't ever talk about her babies",
+                "Or accuse her of faking her Lymes Disease",
+                "In fact, never menetion the word Munchausen around her"
+            ],
+            "taglines": [
+                "Season 3: I like to have fun, but I don’t play games.",
+                "Season 4: Don’t tell me you’re my friend, act like one.",
+                "Season 5: Character isn’t what you have, it’s who you are.",
+                "Season 6: Fake friends believe rumors, real friends believe in you."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=gcZOZv5Mkgc"
+        },
+        {
+            "id": 78,
+            "first_name": "Joyce",
+            "last_name": "Giraud de Ohoven",
+            "city": "Beverly Hills",
+            "show": "The Real Housewives of Beverly  Hills",
+            "birthday": "04/04/1975",
+            "seasons": [
+                "4"
+            ],
+            "partner": "Michael Ohoven",
+            "children": [
+                "Leonardo",
+                "Michael"
+            ],
+            "likes": [
+                "Proud of her Puerto Rican heritage",
+                "Lisa Vanderpump",
+                "Being the first ever Latina housewife"
+            ],
+            "dislikes": [
+                "Racists",
+                "Being called 'Yoyce'",
+                "Brandi Glanville"
+            ],
+            "taglines": [
+                "Season 4: You can never be too young, too thin, or too honest."
+            ]
+        },
+        {
+            "id": 79,
+            "first_name": "Carlton",
+            "last_name": "Gebbia",
+            "city": "Beverly Hills",
+            "show": "The Real Housewives of Beverly  Hills",
+            "birthday": "10/17/1973",
+            "seasons": [
+                "4"
+            ],
+            "previous_partners": "David Gebbbia",
+            "children": [
+                "Mysteri",
+                "Destiny",
+                "Cross"
+            ],
+            "likes": [
+                "Witchcraft",
+                "Kinky sex"
+            ],
+            "dislikes": [
+                "People talking about her witchy ways"
+            ],
+            "taglines": [
+                "Season 4: In my world, money doesn’t talk, it swears."
+            ]
+        },
+        {
+            "id": 80,
+            "first_name": "Lisa",
+            "last_name": "Rinna",
+            "city": "Beverly Hills",
+            "show": "The Real Housewives of Beverly  Hills",
+            "birthday": "07/11/1962",
+            "seasons": [
+                "5", 
+                "6",
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "partner": "Harry Fucking Hamlin",
+            "children": [
+                "Delilah Belle Hamlin",
+                "Amelia Gray Hamlin"
+            ],
+            "likes": [
+                "Owning it",
+                "Stirring the pot",
+                "A good Xanax smoothie",
+                "Dancing IRL and on Instagram",
+                "LOVES her iconic hair and lips"
+            ],
+            "dislikes": [
+                "Liars",
+                "Shit stirrers, which is ironic"
+            ],
+            "taglines": [
+                "Season 5: You’ve heard a lot about me, but it’s only true when it comes from my lips.",
+                "Season 6: My lips were made for talkin’ and that’s just what they’ll do.",
+                "Season 7: My advice to you: Don’t hustle the hustler.",
+                "Season 8: I don’t have to buy it, because I already own it.",
+                "Season 9: In the game of life, it’s Rinna take all.",
+                "Season 10: The secret to life? Dance like everyone is watching."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=e6zQ7XKxQnM"
+        },
+        {
+            "id": 81,
+            "first_name": "Eileen",
+            "last_name": "Davidson",
+            "city": "Beverly Hills",
+            "show": "The Real Housewives of Beverly  Hills",
+            "birthday": "06/15/1959",
+            "seasons": [
+                "5", 
+                "6",
+                "7"
+            ],
+            "partner": "Vincent Van Petten",
+            "children": [
+                "Jesse",
+                "Vinny"
+            ],
+            "likes": [
+                "Being a superstar soap actress",
+                "Gambling",
+                "Keeping the peace"
+            ],
+            "dislikes": [
+                "Drama",
+                "Being called a beast",
+                "Having wine thrown at her",
+                "Brandi Glanville"
+            ],
+            "taglines": [
+                "Season 5: I’m not a bitch, but I’ve played one on TV.",
+                "Season 6: I may be an actress, but that doesn’t mean I’ll stick to your script.",
+                "Season 7: I speak no evil, but I see and hear everything."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=vJ07Tqx2X8k"
+        },
+        {
+            "id": 82,
+            "first_name": "Erika",
+            "nickname": "Erika Jayne",
+            "last_name": "Girardi",
+            "city": "Beverly Hills",
+            "show": "The Real Housewives of Beverly  Hills",
+            "birthday": "07/10/1971",
+            "seasons": [
+                "6", 
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "previous_partners": [
+                "Thomas Zizzo",
+                "Thomas Girardi"
+            ],
+            "children": [
+                "Tommy"
+            ],
+            "likes": [
+                "Patting the puss",
+                "Hiding her real life on a reality TV show",
+                "Her glam squad",
+                "Frauding innocent victims out of millions of dollars"
+            ],
+            "dislikes": [
+                "Being poor",
+                "Being called out",
+                "Being held accountable",
+                "Showing up to court"
+            ],
+            "taglines": [
+                "Season 6: I’m an enigma, wrapped in a riddle, and cash.",
+                "Season 7: I may be two people, but I’m not two-faced.",
+                "Season 8: Some people call me cold, but that’s not ice—it’s diamonds.",
+                "Season 9: Most people talk about their fantasies; I’m living mine.",
+                "Season 10: Break a leg? Not in these heels, honey."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=haERgIplzUk"
+        },
+        {
+            "id": 83,
+            "first_name": "Kathryn",
+            "last_name": "Edwards",
+            "city": "Beverly Hills",
+            "show": "The Real Housewives of Beverly  Hills",
+            "birthday": "10/16/1964",
+            "seasons": [
+                "6"
+            ],
+            "partner": "Donnie Edwards",
+            "likes": [
+                "Investing",
+                "Expensive Jewelry"
+            ],
+            "dislikes": [
+                "Being asked about OJ",
+                "Faye Resnick"
+            ],
+            "taglines": [
+                "Season 1: My advice: Speak your mind and carry a good handbag."
+            ]
+        },
+        {
+            "id": 84,
+            "first_name": "Dorit",
+            "last_name": "Kemsley",
+            "city": "Beverly Hills",
+            "show": "The Real Housewives of Beverly  Hills",
+            "birthday": "07/16/1976",
+            "seasons": [
+                "7", 
+                "8",
+                "9",
+                "10"
+            ],
+            "partner": "Paul 'PK' Kemsley",
+            "children": [
+                "Jagger",
+                "Phoenix"
+            ],
+            "likes": [
+                "Flaunting her designer clothing",
+                "Beverly Beach",
+                "Spending time with her family",
+                "Her ambiguous accent",
+                "Boy George"
+            ],
+            "dislikes": [
+                "Being questioned about Lucy Lucy Apple Juicy",
+                "When someone does not like her"
+            ],
+            "taglines": [
+                "Season 7: When you travel the world, you can speak in any accent you want.",
+                "Season 8: I believe in an excess of everything, except moderation.",
+                "Season 9: In business and in life, I wear many hats — and hairstyles.",
+                "Season 10: I won’t settle for anything less than everything."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=CDeXCs3vKug"
+        },
+        {
+            "id": 85,
+            "first_name": "Teddi",
+            "last_name": "Mellencamp Arroyave",
+            "city": "Beverly Hills",
+            "show": "The Real Housewives of Beverly  Hills",
+            "birthday": "07/01/1989",
+            "seasons": [
+                "8", 
+                "9",
+                "10"
+            ],
+            "partner": "Edwin Arroyave",
+            "children": [
+                "Cruz Kemsley",
+                "Slate Kemsley",
+                "Dove Kemsley"
+            ],
+            "likes": [
+                "Kyle Richards",
+                "Involving herself in anything Kyle Richards does"
+            ],
+            "dislikes": [
+                "Don't call her boring (even though she is)",
+                "Don't call her a liar (even when she lies)"
+            ],
+            "taglines": [
+                "Season 8: Having the best isn’t important to me, but being my best is.",
+                "Season 9: I’m not afraid of hard work, but I’ll never do your dirty work.",
+                "Season 10: You never know what to expect when I’m expecting."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=39kL53lAtcQ"
+        },
+        {
+            "id": 86,
+            "first_name": "Denise",
+            "last_name": "Richards",
+            "city": "Beverly Hills",
+            "show": "The Real Housewives of Beverly  Hills",
+            "birthday": "02/17/1971",
+            "seasons": [
+                "9", 
+                "10"
+            ],
+            "partner": "Aaron Phypers",
+            "previous_partners": "Charlie Sheen",
+            "children": [
+                "Sam Sheen",
+                "Lola Sheen",
+                "Eloise Richards"
+            ],
+            "likes": [
+                "Her husband's penis",
+                "Happy endings",
+                "Reminding us all that she is, in fact, Denise Fucking Richards"
+            ],
+            "dislikes": [
+                "Talking about threesomes in front of her daughters",
+                "Brandi Glanville",
+                "The not so happy ending she got on Bravo, Bravo, Fucking Bravo"
+            ],
+            "taglines": [
+                "Season 9: My problem with the tabloids? My real life is so much juicier.",
+                "Season 10: My life may not be a fairy tale, but I’ll always get a happy ending."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=qGneW-Fyeiw"
+        },
+        {
+            "id": 87,
+            "first_name": "Garcelle",
+            "last_name": "Beauvais",
+            "city": "Beverly Hills",
+            "show": "The Real Housewives of Beverly  Hills",
+            "birthday": "11/26/1966",
+            "seasons": [
+                "10"
+            ],
+            "previous_partners": [
+                "Daniel Saunders",
+                "Mike Nilon"
+            ],
+            "children": [
+                "Oliver Saunders",
+                "Jaid Nilon",
+                "Jax Nilon"
+            ],
+            "likes": [
+                "Her new house",
+                "Being the fabulous queen that she is",
+                "Her kids",
+                "Getting the real tea"
+            ],
+            "dislikes": [
+                "Bullying",
+                "Racists"
+            ],
+            "taglines": [
+                "Season 10: Life is an audition and, honey, I am getting that part."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=gxj9Afa3VLs"
+        },
+        {
+            "id": 88,
+            "first_name": "Gizelle",
+            "last_name": "Bryant",
+            "city": "Potomac",
+            "show": "The Real Housewives of Potomac",
+            "birthday": "10/09/1970",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "partner": "Jamal Bryant",
+            "previous_partners": "Jamal Bryant",
+            "children": [
+                "Grace Bryant",
+                "Angel Bryant",
+                "Adore Bryant"
+            ],
+            "likes": [
+                "Her own fashion sense",
+                "Being messy",
+                "Shading Karen Huger"
+            ],
+            "dislikes": [
+                "Monique Samuels",
+                "Admitting she has terrible style",
+                "Admitting to being messy"
+            ],
+            "taglines": [
+                "Season 1: The word on the street, is that I'm the word on the street.",
+                "Season 2: Word on the street is, I'm still the word on the street.",
+                "Season 3: If you can't handle me being the word on the street, then stop listening.",
+                "Season 4: I'm the baddest thing walking, and the smartest one talking.",
+                "Season 5: I'm still the baddest thing walking, and the most anointed one talking."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=AHJe9l1iDSk"
+        },
+        {
+            "id": 89,
+            "first_name": "Ashley",
+            "last_name": "Darby",
+            "city": "Potomac",
+            "show": "The Real Housewives of Potomac",
+            "birthday": "06/08/1988",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "partner": "Michael Darby",
+            "children": [
+                "Dean"
+            ],
+            "likes": [
+                "Defending Michael",
+                "Defending herself",
+                "Dancing",
+                "Being on Karen Huger's good side"
+            ],
+            "dislikes": [
+                "Being come at with a butter knife",
+                "Having to defend Michael 'touch your butt' Darby all the time"
+            ],
+            "taglines": [
+                "Season 1: Throw this spring chicken into the cougar’s den and let the games begin.",
+                "Season 2: I played by Potomac rules, but now it's time to play by my own.",
+                "Season 3: You may say I cause trouble, but I say I keep things interesting.",
+                "Season 4: Karma is a bitch, but luckily I'm on her good side.",
+                "Season 5: Now that I got my baby, that's the only crap I take."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=Kq91j2dyDnI"
+        },
+        {
+            "id": 90,
+            "first_name": "Robyn",
+            "nickname": "I'm so glad Juan Dixon is not here right now!",
+            "last_name": "Dixon",
+            "city": "Potomac",
+            "show": "The Real Housewives of Potomac",
+            "birthday": "03/31/1979",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "partner": "Juan Dixon",
+            "previous_partners": "Juan Dixon",
+            "children": [
+                "Corey",
+                "Carter"
+            ],
+            "likes": [
+                "That Juan Dixon is not here right now",
+                "Her Embellished Hats",
+                "Teaming up with Gizelle",
+                "Hustling"
+            ],
+            "dislikes": [
+                "When people start drama at her open houses",
+                "People googling her, specifically her bankruptcy"
+            ],
+            "taglines": [
+                "Season 1: I don’t have a cookie cutter life and I’m not apologizing for it.",
+                "Season 2: Don’t let the green eyes fool you; I’m as real as they come.",
+                "Season 3: Life has its ups and downs, but my game is on the rebound.",
+                "Season 4: The shorter my hair, the shorter my patience.",
+                "Season 5: I live in a house full of ballers, but I never get played."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=x1Bmp66mZvU"
+        },
+        {
+            "id": 91,
+            "first_name": "Karen",
+            "last_name": "Huger",
+            "city": "Potomac",
+            "show": "The Real Housewives of Potomac",
+            "birthday": "05/03/1963",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "partner": "Raymond 'The Black Bill Gates' Huger",
+            "children": [
+                "Rayvin Huger",
+                "Brandon Huger"
+            ],
+            "likes": [
+                "Holding press conferences",
+                "Wigs",
+                "Etiquette",
+                "Throwing the best shade"
+            ],
+            "dislikes": [
+                "Gizelle's style",
+                "Being called out",
+                "When her wigs won't stay on"
+            ],
+            "taglines": [
+                "Season 1: In Potomac, it's not about who you know, it's who you are. And I'm everything.",
+                "Season 2: Potomac put me on a pedestal, and the view is spectacular",
+                "Season 3: Baby don’t believe what you hear. The grande dame still holds center court.",
+                "Season 4: You can try to tear me down, but the Grande Dame never crumbles.",
+                "Season 5: Honey, the grande dame don't repeat history — she makes it."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=D5B1wI_Bb4g"
+        },
+        {
+            "id": 92,
+            "first_name": "Charrisse",
+            "last_name": "Jackson-Jordan",
+            "city": "Potomac",
+            "show": "The Real Housewives of Potomac",
+            "birthday": "07/16/1965",
+            "seasons": [
+                "1", 
+                "2"
+            ],
+            "previous_partners": "Eddie Jackson",
+            "children": [
+                "Jackson",
+                "Skylar"
+            ],
+            "likes": [
+                "Starting drama",
+                "Renovating her champagne room"
+            ],
+            "dislikes": [
+                "Not being involved in the drama"
+            
+            ],
+            "taglines": [
+                "Season 1: If I don't know who you are, then you're not worth knowing.",
+                "Season 2: Why cry over spilled milk when you can laugh over champagne?"
+            ]
+        },
+        {
+            "id": 93,
+            "first_name": "Katie",
+            "last_name": "Rost",
+            "birthday": "07/07/1980",
+            "seasons": [
+                "1"
+            ],
+            "children": [
+                "Kathryn",
+                "Renee",
+                "Rocco"
+            ],
+            "taglines": [
+                "Season 1: I'm a ball and gala girl. It's my legacy and my calling."
+            ]
+        },
+        {
+            "id": 94,
+            "first_name": "Monique",
+            "last_name": "Samuels",
+            "city": "Potomac",
+            "show": "The Real Housewives of Potomac",
+            "birthday": "10/06/1983",
+            "seasons": [ 
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "partner": "Chris Samuels",
+            "children": [
+                "Christopher Jr.",
+                "Milani",
+                "Chase"
+            ],
+            "likes": [
+                "T'Challa",
+                "Standing up for herself",
+                "Her family",
+                "Calling out the bullshit"
+            ],
+            "dislikes": [
+                "Candiace Dillard Bassett",
+                "Being asked to get dragged and then complaining about getting dragged"
+            ],
+            "taglines": [
+                "Season 2: I may be rough around the edges, but baby so are diamonds.",
+                "Season 3: You'll never put me in a box, because I'm the whole darn package.",
+                "Season 4: I've traded in my umbrella, it's all gold at the end of this rainbow.",
+                "Season 5: Maybe if you tried a little harder, you wouldn't have to try me."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=rd3zGlIKvO4"
+        },
+        {
+            "id": 95,
+            "first_name": "Candiace",
+            "last_name": "Dillard-Bassett",
+            "city": "Potomac",
+            "show": "The Real Housewives of Potomac",
+            "birthday": "12/14/1986",
+            "seasons": [
+                "3", 
+                "4",
+                "5"
+            ],
+            "partner": "Chris Bassett",
+            "likes": [
+                "Lying",
+                "Bullying people in real life and on Twitter",
+                "Making herself the victim",
+                "Running at people with butter knives and making a complete ass of herself"
+            ],
+            "dislikes": [
+                "Monique Samuels",
+                "Anyone who is team Monique Samuels",
+                "Taking any sort of accountability"
+            ],
+            "taglines": [
+                "Season 3: Life is a pageant, and I'm in it to win it.",
+                "Season 4: Now that I'm marrying my prince, this sleeping beauty is woke.",
+                "Season 5: Reading is fundamental, and, honey, I own the library."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=fB1cJIw11j0"
+        },
+        {
+            "id": 96,
+            "first_name": "Wendy",
+            "last_name": "Osefo",
+            "city": "Potomac",
+            "show": "The Real Housewives of Potomac",
+            "birthday": "05/21/1984",
+            "seasons": [
+                "5"
+            ],
+            "partner": "Edward Osefo",
+            "children": [
+                "Karter",
+                "Kruz",
+                "Kamrynn"
+            ],
+            "likes": [
+                "Reminding people she has 4 degrees",
+                "Being a doctor",
+                "Proud to be the first ever Nigerian housewife"
+            ],
+            "dislikes": [
+                "When people question her degrees",
+                "When people forget about her degrees"
+            ],
+            "taglines": [
+                "Season 5: The professor has arrived, and class is officially in session."
+            ]
+        },
+        {
+            "id": 97,
+            "first_name": "Cary",
+            "last_name": "Deuber",
+            "city": "Dallas",
+            "show": "The Real Housewives of Dallas",
+            "birthday": "05/30/1976",
+            "seasons": [
+                "1", 
+                "2",
+                "3"
+            ],
+            "partner": "Mark Deuber",
+            "children": [
+                "Zuri"
+            ],
+            "likes": [
+                "Doing her own Botox for free",
+                "Having relatives in Copenhagen"
+            ],
+            "dislikes": [
+                "Rumors about her husband at the Round-Up",
+                "Not flying first class"
+            ],
+            "taglines": [
+                "Season 1: I'm not a trophy wife. I'm a lifetime achievement award.",
+                "Season 2: Every girl has skeletons in their closet, mine are next to my Birkin.",
+                "Season 3: When life gets messy, just build a bigger closet."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=U1FpJquY-jk"
+        },
+        {
+            "id": 98,
+            "first_name": "Tiffany",
+            "last_name": "Hendra",
+            "city": "Dallas",
+            "show": "The Real Housewives of Dallas",
+            "birthday": "08/21/1971",
+            "seasons": [
+                "1"
+            ],
+            "partner": "Aaron Hendra",
+            "likes": [
+                "Bragging about her husband"
+            ],
+            "dislikes": [
+                "Not feeling supported by Leann"
+            ],
+            "taglines": [
+                "Season 1: I came home to Dallas to shine my light, not to fight."
+            ]
+        },
+        {
+            "id": 99,
+            "first_name": "Stephanie",
+            "last_name": "Hollman",
+            "city": "Dallas",
+            "show": "The Real Housewives of Dallas",
+            "birthday": "06/13/1980",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "partner": "Travis Hollman",
+            "children": [
+                "Chance",
+                "Cruise"
+            ],
+            "likes": [
+                "Poop jokes",
+                "Being from Oklahoma",
+                "Ignoring any and all budgets",
+                "Literally saving lives (she donated bone marrow to a stranger!)"
+            ],
+            "dislikes": [
+                "People not thinking poop jokes are funny",
+                "Being called trashy"
+            ],
+            "taglines": [
+                "Season 1: I'm the girl next door, if you live in a big old mansion.",
+                "Season 2: I married into money, but family is my fortune.",
+                "Season 3: Investing in drama is not in my budget.",
+                "Season 4: I never carry a grudge, it won't match my shoes.",
+                "Season 5: I don't need your approval. I need you to get out of my way."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=cU3pMNw806M"
+        },
+        {
+            "id": 100,
+            "first_name": "LeAnne",
+            "last_name": "Locken",
+            "city": "Dallas",
+            "show": "The Real Housewives of Dallas",
+            "birthday": "06/07/1967",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4"
+            ],
+            "partner": "Rich Emberlin",
+            "likes": [
+                "Her hands",
+                "Bringing up that she was raised at a carnival",
+                "Her Infinity 164 Ways to Wear a Dress"
+            ],
+            "dislikes": [
+                "The Red Light District in Thailand",
+                "People claiming there was no food at her wedding"
+            ],
+            "taglines": [
+                "Season 1: I grew up a carnie kid. Play games with me, and you're gonna pay.",
+                "Season 2: I'm a true Texan, no bull, but all horns.",
+                "Season 3: You don't mess with Texas and you don't mess with me.",
+                "Season 4: Dallas is a pageant that I always win."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=gFtrrBdlTK4"
+        },
+        {
+            "id": 101,
+            "first_name": "Brandi",
+            "last_name": "Redmond",
+            "city": "Dallas",
+            "show": "The Real Housewives of Dallas",
+            "birthday": "07/10/1978",
+            "seasons": [
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "partner": "Bryan Redmond",
+            "children": [
+                "Brinkley",
+                "Bruin",
+                "Brilynn",
+                "Brooklyn"
+            ],
+            "likes": [
+                "Poop jokes",
+                "Reliving being a Dallas Cowboys cheerleader whenever she has a moment",
+                "Her podcast with Stephanie"
+            ],
+            "dislikes": [
+                "Old videos resurfacing",
+                "Being called trashy"
+            ],
+            "taglines": [
+                "Season 1: I was a Cowboys cheerleader, but in Dallas, I'm never on the sidelines.",
+                "Season 2: I cheered for the Cowboys, so I never get played.",
+                "Season 3: This isn't my first rodeo, so I'm not taking your bull.",
+                "Season 4: When you mess with a ginger, expect some spice.",
+                "Season 5: Take it from me, a sinner is just a saint who keeps on trying."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=cU3pMNw806M"
+        },
+        {
+            "id": 102,
+            "first_name": "D'Andra",
+            "last_name": "Simmons",
+            "city": "Dallas",
+            "show": "The Real Housewives of Dallas",
+            "birthday": "03/15/1969",
+            "seasons": [
+                "2", 
+                "3",
+                "4",
+                "5"
+            ],
+            "partner": "Jeremy Locke",
+            "likes": [
+                "Hard Night Good Morning skincare",
+                "Her Shaman"
+            ],
+            "dislikes": [
+                "Working with Momma Dee",
+                "Doing trunk shows with Kary"
+            ],
+            "taglines": [
+                "Season 2: I started from a Dallas dynasty, but I'll finish with my own empire.",
+                "Season 3: Running a family business is a job for one, tough, mother.",
+                "Season 4: I'm minding my business, so start minding yours.",
+                "Season 5: Dallas girls are sugar and spice, but I'm still working on nice."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=Sm_WFDGq_Ik"
+        },
+        {
+            "id": 103,
+            "first_name": "Kameron",
+            "last_name": "Wescott",
+            "city": "Dallas",
+            "show": "The Real Housewives of Dallas",
+            "birthday": "01/18/1983",
+            "seasons": [
+                "2", 
+                "3",
+                "4",
+                "5"
+            ],
+            "partner": "Court Wescott",
+            "children": [
+                "Hilton",
+                "Cruise"
+            ],
+            "likes": [
+                "Pink dog food",
+                "Parties planned with proper etiquette",
+                "Pomeranians"
+            ],
+            "dislikes": [
+                "Anything declassé",
+                "Losing her dream home"
+            ],
+            "taglines": [
+                "Season 2: Dumb blondes get noticed, smart blondes get everything.",
+                "Season 3: I've got heels that are higher than your standards.",
+                "Season 4: Just cause I look like Barbie, doesn't mean you can play me.",
+                "Season 5: I love to be pampered, but I’m nobody's pet."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=bhGhXAuMlNo"
+        },
+        {
+            "id": 104,
+            "first_name": "Kary",
+            "last_name": "Brittingham",
+            "city": "Dallas",
+            "show": "The Real Housewives of Dallas",
+            "birthday": "07/14/1970",
+            "seasons": [
+                "4", 
+                "5"
+            ],
+            "partner": "Eduardo Brittingham",
+            "children": [
+                "Sofia",
+                "Olivia",
+                "Alex",
+                "Isabella"
+            ],
+            "likes": [
+                "Pouring tequila into everyone's mouth",
+                "Making bbold designs for her jewelry line"
+            ],
+            "dislikes": [
+                "Doing trunk shows with D'Andra",
+                "Thinking about her prenup"
+            ],
+            "taglines": [
+                "Season 4: I'm bilingual, but I don't speak B.S.",
+                "Season 5: If you take a shot at me, it better be tequila!"
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=OhxDxTAI_H0"
+        },
+        {
+            "id": 105,
+            "first_name": "Tiffany",
+            "last_name": "Moon",
+            "city": "Dallas",
+            "show": "The Real Housewives of Dallas",
+            "birthday": "08/13/1984",
+            "seasons": [
+                "5"
+            ],
+            "partner": "Daniel Moon",
+            "children": [
+                "Chloe",
+                "Madison"
+            ],
+            "likes": [
+                "Spreadsheets for all parts of her life",
+                "Being incredibly smart",
+                "Reminding people she's a doctor"
+            ],
+            "dislikes": [
+                "Wearing shoes inside",
+                "When people won't try chicken feet or crickets"
+            ],
+            "taglines": [
+                "Season 5: I can save your life, but not your reputation."
+            ]
+        },
+        {
+            "id": 106,
+            "first_name": "Lisa",
+            "last_name": "Barlow",
+            "city": "Salt Lake City",
+            "show": "The Real Housewives of Salt Lake City",
+            "birthday": "12/21/1974",
+            "seasons": [
+                "1"
+            ],
+            "partner": "John Barlow",
+            "children": [
+                "Henry",
+                "Jack"
+            ],
+            "likes": [
+                "VIDA TEQUILA",
+                "Meredith Marks",
+                "Diet coke from fast food restaurants",
+                "Turning family time into a business meeting"
+            ],
+            "dislikes": [
+                "Anyone else claiming to be 'big' at Sundance"
+            ],
+            "taglines": [
+                "Season 1: When you take cheap shots, always expect a hangover."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=KBuTPKvV6Vc"
+        },
+        {
+            "id": 107,
+            "first_name": "Mary",
+            "last_name": "Cosby",
+            "city": "Salt Lake City",
+            "show": "The Real Housewives of Salt Lake City",
+            "birthday": "1976",
+            "seasons": [
+                "1"
+            ],
+            "partner": "Robert Sr., formerly her step-grandgather",
+            "children": [
+                "Robert Jr."
+            ],
+            "likes": [
+                "Preaching to her congregation to get them to give all their money to her church",
+                "Her green loofa dress",
+                "Marrying her step-grandfather"
+            ],
+            "dislikes": [
+                "Organizing her closet",
+                "Being called out for marrying her step-grandfather",
+                "The smell of hospitals"
+            ],
+            "taglines": [
+                "Season 1: I love God, but I will read you like a scripture."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=KBuTPKvV6Vc"
+        },
+        {
+            "id": 108,
+            "first_name": "Heather",
+            "last_name": "Gay",
+            "city": "Salt Lake City",
+            "show": "The Real Housewives of Salt Lake City",
+            "seasons": [
+                "1"
+            ],
+            "previous_partners": "Billy Gay",
+            "children": [
+                "Ashley",
+                "Georgia",
+                "Annabelle"
+            ],
+            "likes": [
+                "Beauty Lab Laser",
+                "Telling people Rihanna DM'ed her",
+                "Cracking all the right jokes at all the right times"
+            ],
+            "dislikes": [
+                "Judgy Mormons",
+                "Friend poachers"
+            ],
+            "taglines": [
+                "Season 1: Just like my pioneer ancestors, I’m trying to blaze a new trail."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=KBuTPKvV6Vc"
+        },
+        {
+            "id": 109,
+            "first_name": "Meredith",
+            "last_name": "Marks",
+            "city": "Salt Lake City",
+            "show": "The Real Housewives of Salt Lake City",
+            "birthday": "12/15/1971",
+            "seasons": [
+                "1"
+            ],
+            "partner": "Seth Marks",
+            "children": [
+                "Reid",
+                "Chloe",
+                "Brooks"
+            ],
+            "likes": [
+                "Brooks Marks designs"
+            ],
+            "dislikes": [
+                "Ohio"
+            ],
+            "taglines": [
+                "Season 1: Jealousy is a disease to which I say ‘Get well soon."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=KBuTPKvV6Vc"
+        },
+        {
+            "id": 110,
+            "first_name": "Whitney",
+            "last_name": "Rose",
+            "city": "Salt Lake City",
+            "show": "The Real Housewives of Salt Lake City",
+            "birthday": "05/09/1986",
+            "seasons": [
+                "1"
+            ],
+            "partner": "Justin Rose",
+            "children": [
+                "Bobbi",
+                "Brooks"
+            ],
+            "likes": [
+                "Pole dancing at any event she can"
+            ],
+            "taglines": [
+                "Season 1: This rose isn’t scared to handle a little prick."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=KBuTPKvV6Vc"
+        },
+        {
+            "id": 111,
+            "first_name": "Jen",
+            "last_name": "Shah",
+            "city": "Salt Lake City",
+            "show": "The Real Housewives of Salt Lake City",
+            "birthday": "10/04/1973",
+            "seasons": [
+                "1"
+            ],
+            "partner": "Coach Sharrieff Shah",
+            "children": [
+                "Omar",
+                "Sharrieff Jr."
+            ],
+            "likes": [
+                "Causing a scene at any and all events"
+            ],
+            "dislikes": [
+                "Being blamed for causing a scene",
+                "Being told she smells like hospital"
+            ],
+            "taglines": [
+                "Season 1: In this town, I’m queen bee — and MVP."
+            ],
+            "memorable_moments_url": "https://www.youtube.com/watch?v=KBuTPKvV6Vc"
+        }
+    ]
+}
