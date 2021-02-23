@@ -1,16 +1,17 @@
 const express = require('express');
-const db = require('../models/housewife');
+const db = require('../models');
 const router = express.Router();
 
 router.get('/housewife', (req, res) => {
-    db.find({}, (err, db) => {
+    console.log(db);
+    db.Housewife.find({}, (err, housewives) => {
         if (err) {
-            console.error(`🔥 Error in users Index route:\n${err}`);
-            return res.status(500).json({ error: 'Error in housewife route' });
+            console.error(`🔥 Error in Housewife route:\n${err}`);
+            res.status(500).json({ error: 'Error in housewife route' });
         }
-    })
-    .then((response) => {
-        res.json( response )
+        res.json({ housewives })
+        // .then((response) => {
+        //     res.json(response)
     })
 });
 
@@ -19,7 +20,7 @@ router.get('/housewife/:id', (req, res) => {
     console.log(req.params);
     db.findById(req.params.id, (err, db) => {
         if (err) {
-            console.error(`🔥 Error in users Detail route:\n${err}`);
+            console.error(`🔥 Error in Housewife:id route:\n${err}`);
             return res.status(500).json({ error: 'Error in housewife:id route' });
         }
         res.json({ db });

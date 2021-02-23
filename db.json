@@ -1,6 +1,4 @@
-{
-    "count": 111,
-    "housewives": [
+[
         {
             "id": 1,
             "first_name": "Kimberly",
@@ -3922,4 +3920,3 @@
             "memorable_moments_url": "https://www.youtube.com/watch?v=KBuTPKvV6Vc"
         }
     ]
-}
